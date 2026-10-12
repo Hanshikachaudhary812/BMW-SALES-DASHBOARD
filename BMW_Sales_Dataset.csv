@@ -1,0 +1,1201 @@
+Sale_ID,Year,Month,Model,Region,Color,Fuel_Type,Transmission,Sales_Channel,Unit_Price_USD,Units_Sold,Revenue_USD,Customer_Type
+BMW100001,2019,11,X3,Europe,Grey,Diesel,Automatic,Dealership,58241.34,11,640654.79,Individual
+BMW100002,2024,6,X3,Asia,Silver,Petrol,Automatic,Dealership,61472.47,5,307362.34,Individual
+BMW100003,2023,12,X7,Europe,White,Diesel,Automatic,Dealership,127181.03,4,508724.11,Business
+BMW100004,2022,10,X5,Asia,White,Petrol,Manual,Online,89525.47,2,179050.94,Individual
+BMW100005,2022,8,1 Series,Asia,Grey,Petrol,Automatic,Wholesale,40382.35,1,40382.35,Individual
+BMW100006,2025,11,1 Series,Asia,Blue,Diesel,Automatic,Online,34350.48,8,274803.88,Fleet
+BMW100007,2019,7,X3,Europe,Silver,Diesel,Automatic,Dealership,57571.98,15,863579.66,Individual
+BMW100008,2023,9,X1,Europe,Black,Electric,Automatic,Online,40707.39,4,162829.56,Individual
+BMW100009,2020,4,5 Series,North America,Black,Hybrid,Automatic,Wholesale,63630.81,7,445415.7,Fleet
+BMW100010,2019,12,X1,Europe,Grey,Electric,Automatic,Online,48702.5,15,730537.49,Individual
+BMW100011,2022,8,X5,Asia,Blue,Hybrid,Automatic,Online,84596.36,12,1015156.37,Fleet
+BMW100012,2025,10,X7,North America,Silver,Hybrid,Manual,Dealership,134823.37,1,134823.37,Business
+BMW100013,2024,6,X3,North America,Grey,Petrol,Automatic,Online,55279.06,8,442232.45,Individual
+BMW100014,2024,11,7 Series,Europe,Blue,Diesel,Automatic,Dealership,109329.28,3,327987.85,Individual
+BMW100015,2024,1,5 Series,North America,Black,Petrol,Manual,Dealership,66698.75,4,266795.0,Individual
+BMW100016,2024,2,X1,Europe,Black,Petrol,Automatic,Online,38311.82,4,153247.27,Individual
+BMW100017,2022,7,5 Series,Asia,Silver,Petrol,Automatic,Wholesale,61815.69,10,618156.89,Individual
+BMW100018,2019,9,X3,Europe,White,Hybrid,Automatic,Wholesale,57106.0,3,171318.0,Individual
+BMW100019,2024,10,X5,South America,Grey,Hybrid,Automatic,Dealership,70216.56,4,280866.23,Individual
+BMW100020,2022,6,1 Series,Asia,Silver,Electric,Automatic,Dealership,41739.79,4,166959.16,Business
+BMW100021,2022,8,1 Series,Europe,Red,Electric,Automatic,Dealership,33017.51,6,198105.07,Individual
+BMW100022,2021,7,3 Series,Europe,White,Electric,Automatic,Online,45090.92,10,450909.23,Business
+BMW100023,2020,12,i4,North America,Black,Petrol,Automatic,Online,68794.97,6,412769.85,Fleet
+BMW100024,2025,8,X3,Europe,Silver,Electric,Automatic,Wholesale,49999.42,5,249997.1,Business
+BMW100025,2024,6,3 Series,Europe,Silver,Hybrid,Automatic,Dealership,55204.0,8,441632.04,Business
+BMW100026,2023,12,i4,Middle East,White,Electric,Automatic,Dealership,68058.04,10,680580.38,Business
+BMW100027,2021,2,X1,Asia,Grey,Petrol,Automatic,Online,37824.62,1,37824.62,Individual
+BMW100028,2024,12,X1,Europe,White,Petrol,Automatic,Dealership,45677.27,14,639481.82,Individual
+BMW100029,2022,2,iX,North America,Silver,Electric,Automatic,Wholesale,96253.97,14,1347555.59,Fleet
+BMW100030,2022,4,1 Series,Europe,Silver,Petrol,Manual,Dealership,39859.37,10,398593.74,Business
+BMW100031,2022,10,3 Series,South America,White,Petrol,Automatic,Dealership,54166.05,9,487494.44,Business
+BMW100032,2020,9,X3,Europe,Blue,Diesel,Automatic,Dealership,60252.78,11,662780.63,Fleet
+BMW100033,2019,12,3 Series,Asia,Blue,Petrol,Automatic,Wholesale,50680.94,7,354766.57,Individual
+BMW100034,2022,9,X5,Asia,Black,Petrol,Automatic,Online,76185.64,6,457113.85,Individual
+BMW100035,2025,8,3 Series,Europe,Black,Electric,Automatic,Online,52280.74,6,313684.44,Individual
+BMW100036,2019,5,3 Series,Europe,Red,Electric,Manual,Online,56020.39,3,168061.17,Individual
+BMW100037,2025,1,3 Series,North America,Blue,Electric,Automatic,Dealership,50700.31,13,659104.08,Individual
+BMW100038,2024,2,X1,Middle East,Black,Petrol,Automatic,Online,45330.75,5,226653.73,Business
+BMW100039,2020,4,3 Series,North America,Black,Petrol,Automatic,Wholesale,48534.64,5,242673.22,Individual
+BMW100040,2023,1,3 Series,Asia,Blue,Diesel,Manual,Dealership,53128.14,15,796922.09,Individual
+BMW100041,2020,7,i4,Asia,Red,Diesel,Automatic,Online,73116.61,8,584932.91,Business
+BMW100042,2024,10,5 Series,Asia,Blue,Petrol,Automatic,Dealership,60327.59,10,603275.92,Individual
+BMW100043,2023,12,7 Series,North America,Red,Hybrid,Automatic,Dealership,98775.77,4,395103.07,Business
+BMW100044,2021,6,1 Series,North America,Blue,Electric,Manual,Dealership,37505.93,5,187529.64,Individual
+BMW100045,2019,11,5 Series,Asia,Silver,Diesel,Automatic,Wholesale,66586.82,11,732455.02,Business
+BMW100046,2025,12,5 Series,Europe,Silver,Diesel,Manual,Dealership,68345.61,7,478419.28,Individual
+BMW100047,2022,11,X3,Middle East,Black,Diesel,Manual,Dealership,49209.72,3,147629.17,Individual
+BMW100048,2025,6,3 Series,Europe,Black,Petrol,Automatic,Online,48061.58,13,624800.55,Individual
+BMW100049,2023,4,i4,Europe,Red,Petrol,Manual,Dealership,65403.4,7,457823.77,Individual
+BMW100050,2024,12,i4,Asia,Red,Diesel,Automatic,Online,65444.56,11,719890.15,Individual
+BMW100051,2024,3,3 Series,North America,Black,Diesel,Automatic,Wholesale,51705.61,6,310233.65,Business
+BMW100052,2020,5,3 Series,Europe,Grey,Diesel,Automatic,Dealership,52611.11,9,473500.0,Business
+BMW100053,2021,1,3 Series,Europe,Red,Electric,Manual,Dealership,51478.28,12,617739.36,Individual
+BMW100054,2022,10,X3,North America,Red,Petrol,Automatic,Wholesale,61439.01,14,860146.17,Business
+BMW100055,2022,8,3 Series,Middle East,White,Petrol,Automatic,Dealership,51236.55,4,204946.21,Business
+BMW100056,2019,2,i4,Europe,Silver,Petrol,Automatic,Dealership,64557.64,11,710134.07,Business
+BMW100057,2022,3,X5,Europe,Grey,Petrol,Automatic,Wholesale,82825.0,14,1159549.95,Individual
+BMW100058,2020,7,X7,North America,Red,Diesel,Manual,Wholesale,104691.17,10,1046911.71,Individual
+BMW100059,2024,7,X1,South America,Black,Hybrid,Automatic,Online,40401.77,3,121205.32,Fleet
+BMW100060,2023,10,iX,Europe,Grey,Electric,Automatic,Dealership,93439.79,3,280319.38,Individual
+BMW100061,2025,4,1 Series,South America,Black,Diesel,Manual,Wholesale,41108.26,4,164433.05,Individual
+BMW100062,2024,12,7 Series,Middle East,Blue,Diesel,Manual,Online,113790.12,2,227580.25,Business
+BMW100063,2021,6,5 Series,Europe,Black,Petrol,Automatic,Online,58962.96,12,707555.49,Individual
+BMW100064,2025,10,iX,Asia,Blue,Diesel,Automatic,Online,95191.42,15,1427871.35,Business
+BMW100065,2021,3,X3,Asia,Silver,Petrol,Automatic,Online,52058.68,8,416469.41,Individual
+BMW100066,2021,1,X7,North America,Grey,Electric,Automatic,Dealership,126523.57,9,1138712.14,Business
+BMW100067,2025,1,3 Series,North America,White,Diesel,Automatic,Dealership,54155.15,12,649861.78,Fleet
+BMW100068,2021,5,iX,Asia,Blue,Petrol,Automatic,Dealership,95223.32,7,666563.24,Fleet
+BMW100069,2019,12,X1,Asia,Blue,Petrol,Manual,Dealership,44411.17,8,355289.35,Fleet
+BMW100070,2022,1,X1,Asia,Silver,Petrol,Automatic,Dealership,41226.25,9,371036.27,Business
+BMW100071,2024,5,iX,South America,White,Electric,Manual,Dealership,91248.75,5,456243.75,Individual
+BMW100072,2020,2,7 Series,North America,Black,Petrol,Manual,Online,119619.41,1,119619.41,Fleet
+BMW100073,2022,12,7 Series,Asia,Grey,Petrol,Automatic,Dealership,115184.59,9,1036661.31,Fleet
+BMW100074,2019,9,X3,Middle East,Silver,Petrol,Automatic,Dealership,56975.94,13,740687.16,Individual
+BMW100075,2023,10,3 Series,Europe,Blue,Hybrid,Automatic,Dealership,47542.55,2,95085.09,Individual
+BMW100076,2022,9,5 Series,Europe,White,Diesel,Automatic,Dealership,58182.4,4,232729.62,Individual
+BMW100077,2021,8,3 Series,North America,Black,Diesel,Automatic,Online,44299.31,4,177197.23,Individual
+BMW100078,2020,10,3 Series,Middle East,Red,Petrol,Automatic,Dealership,45019.56,13,585254.32,Business
+BMW100079,2022,1,i4,Europe,Silver,Petrol,Automatic,Dealership,61504.93,8,492039.47,Individual
+BMW100080,2023,11,X3,Asia,Black,Electric,Automatic,Online,63978.37,9,575805.33,Individual
+BMW100081,2025,9,5 Series,Europe,Black,Petrol,Automatic,Dealership,67050.49,10,670504.91,Individual
+BMW100082,2022,9,7 Series,North America,Black,Petrol,Automatic,Dealership,99797.47,5,498987.33,Individual
+BMW100083,2020,5,X1,Asia,Blue,Diesel,Automatic,Online,38292.45,11,421216.97,Fleet
+BMW100084,2024,10,X3,Europe,Silver,Petrol,Automatic,Dealership,53982.04,1,53982.04,Individual
+BMW100085,2023,5,i4,Middle East,Black,Petrol,Manual,Online,69732.59,2,139465.18,Individual
+BMW100086,2023,1,iX,Europe,Silver,Hybrid,Manual,Online,89550.26,13,1164153.32,Individual
+BMW100087,2019,11,7 Series,Middle East,Black,Diesel,Manual,Wholesale,116733.93,10,1167339.33,Business
+BMW100088,2021,3,5 Series,Europe,Silver,Petrol,Automatic,Dealership,72852.75,3,218558.24,Business
+BMW100089,2024,2,X1,South America,White,Petrol,Automatic,Online,38356.34,7,268494.39,Individual
+BMW100090,2024,8,X3,Asia,Red,Hybrid,Automatic,Online,58442.89,1,58442.89,Individual
+BMW100091,2022,3,X1,Europe,Blue,Petrol,Automatic,Dealership,49044.61,11,539490.71,Individual
+BMW100092,2024,11,X3,Europe,White,Petrol,Automatic,Wholesale,55035.28,12,660423.34,Individual
+BMW100093,2024,6,X3,Europe,White,Diesel,Manual,Dealership,49240.58,5,246202.89,Business
+BMW100094,2021,1,5 Series,North America,Silver,Diesel,Automatic,Wholesale,75204.4,6,451226.41,Individual
+BMW100095,2025,12,5 Series,Asia,Blue,Electric,Automatic,Dealership,74431.49,4,297725.97,Individual
+BMW100096,2021,7,7 Series,North America,Blue,Petrol,Manual,Dealership,108847.46,6,653084.73,Individual
+BMW100097,2020,4,3 Series,North America,Silver,Petrol,Automatic,Dealership,50192.44,5,250962.22,Individual
+BMW100098,2023,9,3 Series,North America,Grey,Diesel,Automatic,Wholesale,45289.07,4,181156.29,Individual
+BMW100099,2023,7,X5,North America,Grey,Diesel,Manual,Dealership,87815.15,7,614706.03,Individual
+BMW100100,2019,1,7 Series,Asia,Blue,Petrol,Automatic,Dealership,108105.9,13,1405376.72,Individual
+BMW100101,2024,10,3 Series,North America,Black,Diesel,Automatic,Dealership,42727.84,12,512734.08,Individual
+BMW100102,2020,5,X3,Asia,Black,Petrol,Automatic,Online,59669.75,5,298348.73,Individual
+BMW100103,2024,9,X5,South America,Black,Electric,Manual,Dealership,90881.61,15,1363224.19,Fleet
+BMW100104,2019,11,5 Series,North America,Grey,Hybrid,Automatic,Dealership,73368.43,4,293473.74,Individual
+BMW100105,2024,8,X7,Europe,Grey,Diesel,Automatic,Online,110763.34,14,1550686.7,Individual
+BMW100106,2024,9,i4,Europe,Silver,Electric,Automatic,Dealership,55551.85,5,277759.23,Individual
+BMW100107,2024,4,X3,North America,Red,Electric,Automatic,Dealership,63915.8,9,575242.18,Business
+BMW100108,2023,3,X3,North America,White,Petrol,Manual,Dealership,63861.53,4,255446.14,Fleet
+BMW100109,2022,5,1 Series,Middle East,Red,Petrol,Automatic,Wholesale,37430.09,12,449161.03,Business
+BMW100110,2023,11,iX,Asia,Red,Diesel,Automatic,Wholesale,96542.57,5,482712.85,Individual
+BMW100111,2020,7,7 Series,North America,Grey,Petrol,Automatic,Dealership,106971.9,14,1497606.63,Business
+BMW100112,2024,5,i4,Asia,Grey,Diesel,Automatic,Dealership,62367.64,2,124735.27,Individual
+BMW100113,2022,10,X3,Europe,White,Petrol,Automatic,Dealership,50370.9,8,402967.19,Business
+BMW100114,2022,11,1 Series,Asia,White,Electric,Automatic,Wholesale,32724.93,3,98174.79,Business
+BMW100115,2022,11,1 Series,Europe,Black,Diesel,Automatic,Dealership,34193.51,14,478709.1,Individual
+BMW100116,2022,4,X5,Asia,Grey,Hybrid,Automatic,Dealership,88217.39,7,617521.75,Individual
+BMW100117,2019,9,X3,Middle East,Blue,Diesel,Manual,Wholesale,50806.23,11,558868.56,Individual
+BMW100118,2019,8,1 Series,Asia,White,Petrol,Manual,Dealership,34128.35,14,477796.84,Individual
+BMW100119,2020,6,X5,Middle East,Black,Electric,Automatic,Dealership,81477.57,9,733298.12,Business
+BMW100120,2019,5,i4,North America,Black,Petrol,Automatic,Dealership,58561.44,1,58561.44,Individual
+BMW100121,2022,2,X1,Asia,Grey,Petrol,Automatic,Dealership,39016.4,4,156065.62,Business
+BMW100122,2023,4,X1,North America,Silver,Petrol,Automatic,Dealership,44057.78,4,176231.14,Fleet
+BMW100123,2023,7,1 Series,Asia,Grey,Hybrid,Automatic,Wholesale,35655.41,14,499175.7,Individual
+BMW100124,2022,11,X5,Europe,Black,Petrol,Manual,Dealership,83292.13,14,1166089.78,Individual
+BMW100125,2024,11,5 Series,Europe,Black,Petrol,Automatic,Dealership,74988.0,8,599904.03,Individual
+BMW100126,2022,3,i4,North America,Black,Petrol,Automatic,Online,57368.47,14,803158.61,Business
+BMW100127,2019,9,7 Series,Europe,Silver,Petrol,Manual,Online,121173.16,4,484692.64,Individual
+BMW100128,2024,2,X3,Asia,Silver,Petrol,Automatic,Online,63291.08,11,696201.93,Individual
+BMW100129,2023,9,5 Series,Middle East,White,Diesel,Automatic,Online,73367.21,6,440203.25,Individual
+BMW100130,2023,5,3 Series,Middle East,Black,Petrol,Automatic,Dealership,51330.52,4,205322.07,Fleet
+BMW100131,2022,6,X5,Europe,White,Petrol,Automatic,Online,83151.43,4,332605.73,Individual
+BMW100132,2022,9,X1,Middle East,Silver,Diesel,Manual,Dealership,45014.08,7,315098.56,Individual
+BMW100133,2019,6,X3,Europe,Black,Hybrid,Automatic,Dealership,59793.18,6,358759.06,Fleet
+BMW100134,2022,10,iX,North America,Silver,Petrol,Automatic,Wholesale,79645.02,4,318580.08,Individual
+BMW100135,2024,7,iX,Middle East,Blue,Petrol,Automatic,Online,105068.5,6,630411.0,Individual
+BMW100136,2021,12,i4,Europe,Black,Petrol,Manual,Dealership,65452.23,2,130904.46,Individual
+BMW100137,2023,8,3 Series,Europe,Red,Electric,Automatic,Dealership,53493.11,15,802396.62,Individual
+BMW100138,2019,4,X3,Europe,Grey,Petrol,Automatic,Wholesale,54625.15,6,327750.9,Individual
+BMW100139,2021,10,i4,North America,Silver,Petrol,Automatic,Dealership,54790.59,2,109581.18,Individual
+BMW100140,2022,5,7 Series,Asia,Black,Diesel,Manual,Dealership,108456.64,9,976109.78,Individual
+BMW100141,2025,7,3 Series,Europe,Blue,Petrol,Automatic,Dealership,49543.54,14,693609.53,Individual
+BMW100142,2020,2,X7,Europe,Grey,Petrol,Automatic,Dealership,116276.13,6,697656.78,Individual
+BMW100143,2020,2,X1,North America,Grey,Petrol,Manual,Dealership,41240.43,13,536125.65,Individual
+BMW100144,2021,7,X3,Europe,Black,Diesel,Automatic,Wholesale,52522.13,10,525221.3,Individual
+BMW100145,2025,3,iX,Asia,Grey,Diesel,Automatic,Dealership,93443.71,12,1121324.54,Business
+BMW100146,2024,12,X3,South America,Red,Diesel,Automatic,Dealership,54592.09,5,272960.45,Business
+BMW100147,2019,11,X1,Asia,Silver,Hybrid,Automatic,Online,49181.14,1,49181.14,Business
+BMW100148,2020,9,7 Series,Middle East,White,Petrol,Automatic,Dealership,97847.21,6,587083.26,Business
+BMW100149,2024,9,X1,North America,Red,Electric,Automatic,Online,40987.79,14,573829.01,Business
+BMW100150,2019,8,3 Series,Asia,Silver,Hybrid,Automatic,Online,46473.03,12,557676.37,Individual
+BMW100151,2024,1,X7,Europe,Black,Hybrid,Automatic,Dealership,119944.17,12,1439330.0,Fleet
+BMW100152,2020,5,X7,Europe,Black,Hybrid,Automatic,Online,118425.17,14,1657952.36,Business
+BMW100153,2025,6,5 Series,Asia,Red,Petrol,Manual,Online,69752.94,6,418517.63,Individual
+BMW100154,2021,11,5 Series,Europe,White,Petrol,Automatic,Online,75725.03,5,378625.17,Individual
+BMW100155,2022,3,i4,Middle East,Black,Diesel,Automatic,Online,59865.11,14,838111.57,Individual
+BMW100156,2023,6,1 Series,Asia,Blue,Petrol,Automatic,Dealership,39161.93,9,352457.4,Individual
+BMW100157,2019,5,X1,South America,Grey,Diesel,Automatic,Online,37275.51,5,186377.53,Business
+BMW100158,2022,2,X1,Europe,Grey,Petrol,Automatic,Online,40266.09,5,201330.47,Individual
+BMW100159,2022,2,X5,North America,Grey,Petrol,Automatic,Dealership,79491.04,14,1112874.58,Individual
+BMW100160,2024,5,3 Series,Asia,Red,Electric,Automatic,Wholesale,42686.32,1,42686.32,Individual
+BMW100161,2025,1,X3,Europe,Silver,Hybrid,Automatic,Dealership,58591.55,1,58591.55,Business
+BMW100162,2023,1,7 Series,North America,Black,Diesel,Automatic,Dealership,113766.78,12,1365201.41,Individual
+BMW100163,2021,5,X3,Asia,Black,Petrol,Manual,Wholesale,60721.07,1,60721.07,Business
+BMW100164,2021,3,1 Series,South America,Black,Diesel,Manual,Dealership,37259.0,3,111777.01,Individual
+BMW100165,2021,7,X1,Asia,Blue,Electric,Automatic,Dealership,44569.7,15,668545.54,Individual
+BMW100166,2024,1,X1,Europe,Blue,Diesel,Automatic,Dealership,41950.42,7,293652.96,Individual
+BMW100167,2021,4,3 Series,North America,Red,Diesel,Automatic,Wholesale,42834.04,11,471174.48,Individual
+BMW100168,2020,6,3 Series,North America,Blue,Diesel,Manual,Dealership,43679.31,8,349434.45,Individual
+BMW100169,2021,12,3 Series,Europe,Black,Petrol,Manual,Online,51671.94,2,103343.88,Business
+BMW100170,2019,8,5 Series,North America,Red,Hybrid,Manual,Online,76613.33,3,229839.99,Individual
+BMW100171,2019,11,3 Series,Europe,White,Electric,Automatic,Online,42467.57,12,509610.8,Individual
+BMW100172,2019,5,iX,Europe,Red,Diesel,Manual,Wholesale,94254.75,2,188509.51,Business
+BMW100173,2024,6,7 Series,North America,Silver,Diesel,Automatic,Online,116056.78,9,1044510.98,Business
+BMW100174,2024,6,X7,Europe,Red,Diesel,Manual,Dealership,129723.73,6,778342.39,Individual
+BMW100175,2023,11,iX,Asia,Silver,Diesel,Automatic,Wholesale,93920.53,6,563523.19,Business
+BMW100176,2022,12,3 Series,Europe,Black,Electric,Automatic,Dealership,51166.79,15,767501.85,Individual
+BMW100177,2024,12,X3,Asia,Grey,Hybrid,Automatic,Dealership,59895.96,10,598959.62,Individual
+BMW100178,2020,10,i4,Europe,Blue,Petrol,Manual,Dealership,70536.77,10,705367.72,Individual
+BMW100179,2025,7,X3,Middle East,Grey,Petrol,Automatic,Online,50417.78,6,302506.66,Business
+BMW100180,2022,7,X1,Europe,Silver,Diesel,Automatic,Dealership,48629.9,6,291779.37,Business
+BMW100181,2025,12,X1,North America,Grey,Petrol,Automatic,Dealership,37287.82,11,410166.01,Individual
+BMW100182,2020,4,1 Series,North America,White,Diesel,Automatic,Dealership,40710.96,1,40710.96,Individual
+BMW100183,2022,5,X3,Europe,Red,Hybrid,Manual,Dealership,49666.22,4,198664.87,Business
+BMW100184,2023,11,iX,North America,Grey,Hybrid,Automatic,Dealership,84454.96,10,844549.62,Individual
+BMW100185,2022,5,iX,Middle East,Red,Petrol,Automatic,Online,79305.14,10,793051.42,Individual
+BMW100186,2022,3,1 Series,Middle East,White,Hybrid,Manual,Dealership,36488.77,2,72977.54,Individual
+BMW100187,2020,7,X5,Europe,Red,Hybrid,Automatic,Dealership,76464.01,12,917568.07,Individual
+BMW100188,2021,4,5 Series,Europe,White,Petrol,Automatic,Dealership,60436.86,9,543931.76,Individual
+BMW100189,2020,11,i4,Asia,Blue,Diesel,Automatic,Dealership,62950.28,4,251801.11,Individual
+BMW100190,2021,11,1 Series,North America,Red,Diesel,Automatic,Online,36025.61,12,432307.27,Fleet
+BMW100191,2023,4,iX,Europe,Blue,Hybrid,Automatic,Dealership,99926.85,15,1498902.72,Individual
+BMW100192,2023,7,X7,Asia,White,Petrol,Automatic,Dealership,132013.0,7,924090.97,Individual
+BMW100193,2023,12,3 Series,North America,Red,Petrol,Automatic,Wholesale,51636.97,5,258184.84,Individual
+BMW100194,2021,9,1 Series,Asia,Red,Diesel,Automatic,Dealership,33023.63,5,165118.16,Individual
+BMW100195,2025,3,X7,North America,White,Petrol,Manual,Dealership,111390.98,9,1002518.84,Individual
+BMW100196,2019,8,3 Series,North America,White,Diesel,Manual,Online,55391.78,1,55391.78,Individual
+BMW100197,2021,8,X3,Europe,White,Hybrid,Automatic,Online,49864.12,8,398912.95,Individual
+BMW100198,2019,8,i4,Asia,Black,Petrol,Automatic,Online,62127.52,1,62127.52,Individual
+BMW100199,2021,1,X3,Europe,Grey,Diesel,Manual,Dealership,63951.33,1,63951.33,Individual
+BMW100200,2025,4,7 Series,Asia,White,Electric,Automatic,Dealership,122345.94,7,856421.6,Individual
+BMW100201,2021,11,X1,Asia,Red,Diesel,Automatic,Dealership,42141.16,12,505693.92,Individual
+BMW100202,2025,3,1 Series,Asia,White,Diesel,Automatic,Dealership,38887.89,14,544430.41,Individual
+BMW100203,2022,4,iX,Europe,Grey,Diesel,Automatic,Dealership,91532.13,2,183064.26,Business
+BMW100204,2023,4,5 Series,Europe,Grey,Petrol,Automatic,Wholesale,71892.48,4,287569.92,Business
+BMW100205,2022,3,3 Series,North America,Grey,Petrol,Automatic,Online,42694.77,7,298863.4,Individual
+BMW100206,2020,2,5 Series,Asia,Black,Hybrid,Automatic,Dealership,60011.06,9,540099.58,Business
+BMW100207,2024,5,iX,Middle East,Blue,Diesel,Manual,Dealership,95783.37,15,1436750.52,Business
+BMW100208,2025,11,3 Series,North America,Grey,Petrol,Automatic,Online,45588.75,11,501476.28,Individual
+BMW100209,2020,1,i4,Middle East,Blue,Petrol,Automatic,Dealership,66948.57,9,602537.15,Individual
+BMW100210,2024,4,X5,Europe,Red,Electric,Automatic,Dealership,76858.62,1,76858.62,Business
+BMW100211,2020,1,X7,North America,Grey,Petrol,Automatic,Dealership,131789.27,2,263578.54,Individual
+BMW100212,2024,7,iX,Europe,Blue,Hybrid,Automatic,Online,101320.0,3,303960.01,Individual
+BMW100213,2024,4,X7,Asia,Black,Diesel,Automatic,Online,118202.9,10,1182029.04,Individual
+BMW100214,2022,10,iX,Europe,White,Diesel,Automatic,Dealership,100068.17,5,500340.84,Individual
+BMW100215,2024,8,3 Series,Europe,Blue,Petrol,Automatic,Dealership,46144.39,4,184577.54,Fleet
+BMW100216,2020,10,X7,Asia,Blue,Petrol,Manual,Online,118251.96,11,1300771.59,Individual
+BMW100217,2019,8,X3,North America,Red,Diesel,Automatic,Dealership,51658.45,13,671559.9,Individual
+BMW100218,2019,6,X3,Europe,Silver,Hybrid,Manual,Online,62604.62,7,438232.35,Individual
+BMW100219,2022,11,i4,Europe,Black,Petrol,Automatic,Dealership,69869.06,14,978166.81,Individual
+BMW100220,2025,6,iX,North America,Grey,Diesel,Automatic,Online,103558.04,12,1242696.49,Business
+BMW100221,2019,12,X5,Europe,Blue,Diesel,Automatic,Wholesale,89172.96,11,980902.57,Business
+BMW100222,2022,12,X1,Europe,Black,Petrol,Automatic,Dealership,49050.91,14,686712.78,Fleet
+BMW100223,2023,8,X1,Asia,Grey,Diesel,Automatic,Dealership,39837.04,3,119511.11,Individual
+BMW100224,2020,9,7 Series,Europe,Grey,Petrol,Automatic,Online,121752.47,12,1461029.58,Individual
+BMW100225,2024,4,7 Series,Asia,Black,Diesel,Automatic,Dealership,110393.22,15,1655898.23,Individual
+BMW100226,2021,10,7 Series,North America,Blue,Petrol,Automatic,Dealership,105708.6,15,1585628.93,Individual
+BMW100227,2024,9,3 Series,Europe,Silver,Diesel,Manual,Dealership,50309.38,9,452784.46,Fleet
+BMW100228,2023,11,1 Series,Europe,White,Petrol,Automatic,Wholesale,35380.11,12,424561.27,Individual
+BMW100229,2022,4,X5,Europe,Blue,Diesel,Automatic,Dealership,75392.14,14,1055489.97,Individual
+BMW100230,2020,10,X1,Europe,Black,Diesel,Manual,Wholesale,40000.56,13,520007.29,Individual
+BMW100231,2022,6,iX,Europe,White,Electric,Manual,Dealership,81425.56,14,1139957.78,Business
+BMW100232,2024,3,X3,Middle East,Red,Diesel,Automatic,Dealership,56593.32,13,735713.17,Individual
+BMW100233,2019,3,1 Series,Asia,Grey,Hybrid,Automatic,Dealership,41267.83,6,247606.96,Business
+BMW100234,2024,7,3 Series,North America,White,Petrol,Automatic,Online,51314.19,11,564456.07,Business
+BMW100235,2022,4,3 Series,North America,Blue,Petrol,Automatic,Dealership,49742.05,7,348194.34,Business
+BMW100236,2024,2,iX,North America,White,Petrol,Automatic,Dealership,90772.01,13,1180036.11,Individual
+BMW100237,2023,6,3 Series,Asia,Blue,Diesel,Automatic,Dealership,48927.38,13,636055.98,Individual
+BMW100238,2022,8,X1,Europe,Black,Hybrid,Automatic,Dealership,39596.89,15,593953.42,Individual
+BMW100239,2021,4,iX,Europe,Grey,Hybrid,Automatic,Dealership,101419.27,9,912773.42,Business
+BMW100240,2023,12,iX,Europe,Grey,Diesel,Manual,Dealership,84556.34,8,676450.72,Fleet
+BMW100241,2019,10,3 Series,Europe,Grey,Diesel,Manual,Dealership,52559.37,3,157678.1,Individual
+BMW100242,2023,7,1 Series,Europe,Blue,Petrol,Manual,Wholesale,39887.84,10,398878.38,Individual
+BMW100243,2019,12,3 Series,Middle East,White,Petrol,Automatic,Dealership,50518.11,9,454663.03,Individual
+BMW100244,2023,6,1 Series,Middle East,White,Hybrid,Automatic,Dealership,40999.6,8,327996.84,Individual
+BMW100245,2023,2,3 Series,Europe,White,Petrol,Automatic,Dealership,46431.13,11,510742.38,Individual
+BMW100246,2019,1,X3,North America,Blue,Petrol,Automatic,Dealership,62946.68,13,818306.89,Individual
+BMW100247,2024,12,i4,North America,Blue,Electric,Automatic,Online,68127.03,3,204381.1,Business
+BMW100248,2021,12,X3,North America,Silver,Electric,Automatic,Dealership,61579.37,7,431055.61,Individual
+BMW100249,2024,9,X3,North America,Black,Diesel,Automatic,Dealership,59365.57,11,653021.22,Individual
+BMW100250,2019,2,3 Series,Europe,White,Petrol,Automatic,Online,54427.34,13,707555.41,Individual
+BMW100251,2020,4,X7,Middle East,Red,Hybrid,Automatic,Dealership,135461.91,12,1625542.93,Individual
+BMW100252,2022,1,X3,South America,Red,Petrol,Automatic,Wholesale,55332.69,12,663992.25,Business
+BMW100253,2020,1,i4,Asia,Red,Diesel,Automatic,Wholesale,69698.83,13,906084.81,Individual
+BMW100254,2021,3,iX,Asia,White,Petrol,Automatic,Dealership,99303.65,15,1489554.8,Individual
+BMW100255,2023,7,5 Series,North America,Black,Electric,Manual,Dealership,66030.97,10,660309.68,Individual
+BMW100256,2020,1,3 Series,North America,White,Electric,Automatic,Dealership,55588.07,4,222352.26,Individual
+BMW100257,2023,12,3 Series,Europe,Black,Diesel,Automatic,Dealership,47919.73,9,431277.6,Individual
+BMW100258,2019,6,X1,North America,Red,Petrol,Manual,Dealership,44084.87,11,484933.58,Individual
+BMW100259,2020,4,iX,Europe,Red,Diesel,Automatic,Dealership,82060.44,2,164120.89,Individual
+BMW100260,2023,7,7 Series,Asia,Silver,Petrol,Automatic,Dealership,99511.92,12,1194143.02,Individual
+BMW100261,2024,10,X5,North America,Silver,Electric,Automatic,Dealership,88312.29,9,794810.61,Individual
+BMW100262,2020,4,X3,North America,Blue,Petrol,Automatic,Dealership,54943.12,15,824146.8,Individual
+BMW100263,2021,1,3 Series,North America,Blue,Petrol,Automatic,Wholesale,47914.81,4,191659.24,Individual
+BMW100264,2025,1,5 Series,South America,Red,Hybrid,Manual,Wholesale,61996.63,14,867952.82,Fleet
+BMW100265,2025,11,X3,Europe,Silver,Diesel,Manual,Dealership,56511.57,7,395580.99,Individual
+BMW100266,2023,2,X5,Europe,Grey,Hybrid,Automatic,Online,87496.12,9,787465.05,Individual
+BMW100267,2022,8,X1,Europe,Red,Petrol,Automatic,Dealership,48239.07,10,482390.68,Individual
+BMW100268,2021,5,3 Series,Asia,Blue,Hybrid,Automatic,Online,43249.65,9,389246.83,Business
+BMW100269,2023,10,X5,South America,Blue,Petrol,Manual,Dealership,82090.81,14,1149271.27,Individual
+BMW100270,2023,1,3 Series,Europe,Red,Petrol,Automatic,Wholesale,48968.74,3,146906.21,Fleet
+BMW100271,2021,11,iX,Middle East,Blue,Diesel,Automatic,Dealership,95785.61,11,1053641.71,Individual
+BMW100272,2019,9,3 Series,Europe,Silver,Petrol,Manual,Dealership,48680.77,15,730211.55,Business
+BMW100273,2020,6,3 Series,Asia,Blue,Diesel,Automatic,Wholesale,47980.49,4,191921.94,Individual
+BMW100274,2025,3,X1,Europe,White,Petrol,Automatic,Dealership,42905.7,4,171622.79,Individual
+BMW100275,2021,12,X1,North America,White,Petrol,Automatic,Dealership,44293.19,8,354345.51,Individual
+BMW100276,2022,4,X1,Asia,Grey,Hybrid,Automatic,Online,43272.39,11,475996.27,Individual
+BMW100277,2022,6,X1,North America,Blue,Petrol,Automatic,Online,42909.02,15,643635.3,Business
+BMW100278,2024,5,iX,Europe,Blue,Diesel,Automatic,Online,101281.55,12,1215378.64,Business
+BMW100279,2019,3,X1,Asia,Silver,Hybrid,Automatic,Online,46355.16,12,556261.98,Individual
+BMW100280,2019,5,X1,South America,Black,Petrol,Manual,Online,41261.37,7,288829.58,Individual
+BMW100281,2020,2,X1,North America,Black,Hybrid,Automatic,Dealership,47047.27,10,470472.72,Individual
+BMW100282,2022,1,1 Series,Asia,Red,Petrol,Manual,Dealership,40899.43,4,163597.71,Individual
+BMW100283,2023,4,X3,Asia,Grey,Diesel,Automatic,Online,50932.62,7,356528.35,Individual
+BMW100284,2022,2,3 Series,Europe,Grey,Petrol,Automatic,Wholesale,50630.63,3,151891.88,Individual
+BMW100285,2022,5,X3,Middle East,Black,Hybrid,Automatic,Dealership,53107.65,1,53107.65,Individual
+BMW100286,2025,11,1 Series,Europe,Grey,Diesel,Manual,Dealership,39663.06,13,515619.79,Business
+BMW100287,2020,2,iX,Asia,Blue,Diesel,Automatic,Online,85647.2,13,1113413.65,Business
+BMW100288,2023,1,X1,Europe,Grey,Electric,Automatic,Dealership,45419.68,8,363357.48,Business
+BMW100289,2022,2,i4,Europe,Black,Petrol,Automatic,Dealership,59305.32,1,59305.32,Individual
+BMW100290,2022,7,X1,North America,Grey,Electric,Automatic,Online,43400.41,2,86800.82,Fleet
+BMW100291,2024,4,1 Series,North America,Grey,Hybrid,Manual,Dealership,41925.38,2,83850.76,Individual
+BMW100292,2020,6,X7,Middle East,White,Electric,Manual,Dealership,114355.11,11,1257906.21,Individual
+BMW100293,2025,1,X3,South America,Black,Electric,Automatic,Dealership,62849.69,4,251398.74,Individual
+BMW100294,2021,4,X5,Europe,Red,Electric,Automatic,Dealership,91734.5,4,366938.01,Business
+BMW100295,2022,5,X1,Europe,Silver,Petrol,Manual,Online,47983.12,13,623780.57,Individual
+BMW100296,2022,6,X3,North America,Grey,Hybrid,Automatic,Dealership,51136.79,14,715915.05,Business
+BMW100297,2024,7,i4,North America,Silver,Hybrid,Automatic,Dealership,69805.64,12,837667.71,Individual
+BMW100298,2022,10,X3,North America,Silver,Diesel,Automatic,Dealership,48930.47,5,244652.33,Business
+BMW100299,2020,6,5 Series,Middle East,Black,Petrol,Automatic,Dealership,64869.39,9,583824.48,Business
+BMW100300,2019,11,X3,Asia,Blue,Electric,Automatic,Dealership,62767.1,4,251068.4,Fleet
+BMW100301,2021,7,X5,Europe,Red,Petrol,Automatic,Dealership,84756.8,13,1101838.42,Individual
+BMW100302,2024,4,iX,North America,White,Diesel,Automatic,Dealership,93583.99,2,187167.98,Individual
+BMW100303,2019,3,7 Series,Asia,Red,Diesel,Automatic,Dealership,104617.72,12,1255412.6,Business
+BMW100304,2025,4,X1,North America,Black,Petrol,Automatic,Dealership,47194.94,8,377559.53,Individual
+BMW100305,2022,8,X7,Europe,White,Hybrid,Automatic,Dealership,125679.76,12,1508157.18,Individual
+BMW100306,2019,3,X1,North America,Blue,Petrol,Automatic,Dealership,42861.91,7,300033.35,Business
+BMW100307,2021,11,X5,North America,Grey,Hybrid,Manual,Dealership,89524.13,3,268572.4,Individual
+BMW100308,2022,6,X1,Europe,White,Electric,Manual,Dealership,39857.35,12,478288.14,Business
+BMW100309,2021,11,3 Series,Asia,White,Petrol,Automatic,Dealership,44693.64,10,446936.38,Individual
+BMW100310,2019,9,X5,North America,Grey,Hybrid,Automatic,Dealership,83681.61,7,585771.26,Business
+BMW100311,2023,5,3 Series,North America,White,Petrol,Automatic,Online,56236.72,6,337420.31,Individual
+BMW100312,2023,3,3 Series,North America,Red,Electric,Automatic,Dealership,45800.49,6,274802.97,Individual
+BMW100313,2019,9,X3,Middle East,Red,Electric,Automatic,Online,52519.56,8,420156.49,Business
+BMW100314,2020,4,X5,Europe,White,Petrol,Automatic,Online,71904.27,4,287617.09,Individual
+BMW100315,2020,3,i4,Europe,Grey,Hybrid,Automatic,Dealership,70566.48,5,352832.41,Individual
+BMW100316,2023,12,5 Series,Europe,White,Diesel,Automatic,Dealership,61614.75,5,308073.76,Individual
+BMW100317,2024,6,3 Series,North America,Blue,Diesel,Manual,Dealership,49485.77,1,49485.77,Individual
+BMW100318,2024,1,iX,Europe,Silver,Hybrid,Automatic,Dealership,105953.56,14,1483349.8,Individual
+BMW100319,2025,6,3 Series,Asia,White,Diesel,Automatic,Dealership,42414.83,4,169659.32,Individual
+BMW100320,2024,6,3 Series,Europe,Black,Diesel,Automatic,Dealership,50253.4,3,150760.2,Business
+BMW100321,2021,11,5 Series,Europe,White,Petrol,Automatic,Online,67189.64,3,201568.91,Individual
+BMW100322,2019,9,X1,North America,Red,Petrol,Automatic,Dealership,47133.84,15,707007.55,Individual
+BMW100323,2023,3,i4,Asia,White,Electric,Automatic,Online,61168.24,8,489345.89,Individual
+BMW100324,2025,2,X5,Middle East,Blue,Petrol,Automatic,Online,78241.99,5,391209.94,Individual
+BMW100325,2025,8,X5,Asia,Grey,Diesel,Automatic,Dealership,72569.75,7,507988.24,Individual
+BMW100326,2020,1,3 Series,North America,Black,Petrol,Automatic,Wholesale,52907.74,2,105815.48,Fleet
+BMW100327,2020,4,5 Series,Asia,White,Electric,Manual,Wholesale,72501.82,5,362509.12,Business
+BMW100328,2019,2,X1,Asia,White,Diesel,Automatic,Dealership,38681.96,4,154727.83,Individual
+BMW100329,2019,1,3 Series,Europe,Red,Diesel,Automatic,Dealership,47905.78,13,622775.16,Business
+BMW100330,2022,12,5 Series,North America,Red,Petrol,Automatic,Dealership,74611.65,1,74611.65,Individual
+BMW100331,2022,2,5 Series,Asia,Silver,Diesel,Automatic,Dealership,57252.79,7,400769.54,Individual
+BMW100332,2021,1,3 Series,Europe,White,Electric,Automatic,Dealership,46542.13,12,558505.57,Business
+BMW100333,2021,12,X3,Asia,Grey,Diesel,Automatic,Dealership,57558.2,13,748256.57,Individual
+BMW100334,2024,3,X5,North America,Grey,Diesel,Automatic,Dealership,76457.8,8,611662.37,Individual
+BMW100335,2022,10,1 Series,North America,Red,Hybrid,Automatic,Online,34618.09,4,138472.35,Business
+BMW100336,2024,1,X1,Europe,Black,Petrol,Manual,Dealership,42756.47,6,256538.83,Individual
+BMW100337,2025,2,X5,Asia,Silver,Diesel,Automatic,Dealership,72887.64,4,291550.56,Individual
+BMW100338,2021,2,X5,Middle East,White,Petrol,Manual,Dealership,81033.23,10,810332.31,Individual
+BMW100339,2020,9,X7,Europe,Grey,Petrol,Automatic,Online,125581.01,5,627905.05,Business
+BMW100340,2025,8,X1,North America,Red,Hybrid,Automatic,Online,44208.72,10,442087.16,Business
+BMW100341,2023,6,X7,Europe,Black,Electric,Manual,Dealership,104412.27,10,1044122.72,Fleet
+BMW100342,2021,3,5 Series,Europe,Black,Electric,Automatic,Online,73665.97,15,1104989.52,Individual
+BMW100343,2023,2,7 Series,South America,Silver,Electric,Automatic,Dealership,97911.8,6,587470.81,Business
+BMW100344,2022,7,3 Series,North America,Black,Diesel,Manual,Online,53253.29,15,798799.39,Individual
+BMW100345,2025,3,X1,North America,Silver,Petrol,Automatic,Dealership,41503.12,7,290521.84,Individual
+BMW100346,2020,8,7 Series,Europe,Grey,Diesel,Automatic,Dealership,117056.98,11,1287626.81,Individual
+BMW100347,2025,9,5 Series,South America,Blue,Electric,Automatic,Online,61222.32,10,612223.22,Business
+BMW100348,2025,11,X5,Europe,Red,Hybrid,Automatic,Wholesale,73007.89,13,949102.61,Individual
+BMW100349,2020,6,5 Series,Asia,Red,Diesel,Automatic,Online,66892.0,8,535136.03,Individual
+BMW100350,2020,1,5 Series,Europe,White,Hybrid,Automatic,Dealership,57842.25,12,694107.03,Individual
+BMW100351,2022,4,3 Series,Europe,Black,Hybrid,Manual,Online,45484.28,6,272905.69,Individual
+BMW100352,2019,11,X1,Asia,Black,Electric,Automatic,Dealership,46082.55,8,368660.44,Fleet
+BMW100353,2021,7,5 Series,Europe,Black,Hybrid,Automatic,Online,73528.98,8,588231.82,Business
+BMW100354,2022,8,7 Series,Asia,Red,Diesel,Automatic,Online,94944.74,11,1044392.13,Individual
+BMW100355,2025,6,3 Series,Europe,Grey,Petrol,Automatic,Dealership,54941.92,10,549419.19,Business
+BMW100356,2025,2,X5,Asia,Silver,Diesel,Manual,Dealership,87301.9,2,174603.81,Individual
+BMW100357,2020,11,iX,Asia,White,Petrol,Automatic,Dealership,102681.48,13,1334859.19,Business
+BMW100358,2025,10,X1,Asia,Red,Electric,Automatic,Dealership,45760.2,12,549122.4,Individual
+BMW100359,2019,12,X3,Europe,Silver,Diesel,Manual,Dealership,59523.53,2,119047.05,Individual
+BMW100360,2024,11,i4,Asia,Silver,Diesel,Manual,Dealership,64326.73,15,964901.01,Individual
+BMW100361,2024,4,iX,South America,Blue,Petrol,Manual,Dealership,96825.26,10,968252.55,Individual
+BMW100362,2025,4,X3,Europe,Silver,Diesel,Automatic,Dealership,63565.31,2,127130.62,Individual
+BMW100363,2020,3,i4,Europe,Grey,Diesel,Automatic,Dealership,56429.71,8,451437.67,Individual
+BMW100364,2025,12,i4,Asia,Blue,Petrol,Automatic,Online,60433.22,13,785631.85,Fleet
+BMW100365,2019,7,X7,Europe,Grey,Electric,Automatic,Dealership,103699.7,5,518498.48,Individual
+BMW100366,2022,6,X1,Asia,White,Petrol,Manual,Dealership,48864.55,14,684103.63,Individual
+BMW100367,2022,12,3 Series,Asia,Red,Diesel,Automatic,Online,48651.82,7,340562.76,Individual
+BMW100368,2021,8,1 Series,Europe,Silver,Petrol,Automatic,Wholesale,38973.72,4,155894.88,Individual
+BMW100369,2019,11,X1,North America,Silver,Diesel,Manual,Dealership,47558.11,6,285348.68,Individual
+BMW100370,2024,12,X1,North America,Silver,Hybrid,Manual,Dealership,49446.6,8,395572.83,Individual
+BMW100371,2021,1,7 Series,Europe,Blue,Electric,Automatic,Dealership,97496.15,11,1072457.62,Business
+BMW100372,2023,5,X3,Middle East,Red,Petrol,Manual,Wholesale,61591.96,14,862287.41,Individual
+BMW100373,2021,9,X3,Europe,White,Electric,Automatic,Online,63042.48,3,189127.43,Fleet
+BMW100374,2021,10,X7,North America,Grey,Hybrid,Automatic,Online,102886.2,15,1543293.01,Individual
+BMW100375,2025,2,3 Series,Middle East,Black,Petrol,Automatic,Online,53098.9,8,424791.23,Individual
+BMW100376,2019,4,3 Series,Europe,White,Petrol,Manual,Dealership,47348.04,2,94696.09,Individual
+BMW100377,2024,7,X7,Asia,Grey,Petrol,Manual,Dealership,123576.59,14,1730072.25,Business
+BMW100378,2024,10,X7,Europe,Blue,Electric,Automatic,Online,118934.66,6,713607.98,Business
+BMW100379,2021,2,iX,North America,Red,Petrol,Automatic,Wholesale,86213.04,10,862130.41,Individual
+BMW100380,2020,8,i4,Europe,Grey,Diesel,Automatic,Dealership,57075.12,11,627826.29,Individual
+BMW100381,2019,4,i4,Asia,Blue,Hybrid,Automatic,Dealership,56735.22,1,56735.22,Individual
+BMW100382,2025,3,5 Series,Asia,Blue,Electric,Manual,Dealership,59214.8,4,236859.18,Individual
+BMW100383,2025,7,7 Series,Middle East,Grey,Diesel,Automatic,Wholesale,112490.39,11,1237394.25,Fleet
+BMW100384,2020,5,5 Series,South America,Silver,Hybrid,Manual,Dealership,64052.51,5,320262.56,Individual
+BMW100385,2019,8,X3,Asia,White,Petrol,Automatic,Online,51974.45,1,51974.45,Individual
+BMW100386,2019,4,iX,Asia,Grey,Electric,Automatic,Dealership,97880.9,1,97880.9,Fleet
+BMW100387,2019,10,5 Series,North America,Grey,Petrol,Automatic,Dealership,70593.57,13,917716.36,Business
+BMW100388,2024,1,X3,Middle East,Black,Petrol,Manual,Online,57296.28,3,171888.83,Business
+BMW100389,2025,11,5 Series,Asia,Red,Electric,Automatic,Dealership,75431.68,2,150863.35,Individual
+BMW100390,2020,1,3 Series,Middle East,Grey,Petrol,Automatic,Online,47789.96,9,430109.68,Individual
+BMW100391,2024,9,3 Series,Europe,White,Petrol,Automatic,Wholesale,54276.43,2,108552.85,Individual
+BMW100392,2020,5,1 Series,North America,Grey,Diesel,Manual,Wholesale,32491.51,10,324915.06,Individual
+BMW100393,2021,5,iX,Asia,Silver,Petrol,Manual,Dealership,99175.44,9,892578.96,Individual
+BMW100394,2023,1,7 Series,Europe,Red,Petrol,Manual,Online,123536.09,10,1235360.94,Individual
+BMW100395,2024,9,X7,Europe,Black,Diesel,Automatic,Dealership,130407.64,8,1043261.11,Individual
+BMW100396,2025,2,X5,South America,Blue,Hybrid,Manual,Dealership,82204.15,12,986449.85,Individual
+BMW100397,2019,8,3 Series,North America,White,Hybrid,Automatic,Dealership,51265.43,10,512654.31,Individual
+BMW100398,2020,9,3 Series,Europe,Grey,Petrol,Automatic,Dealership,47327.37,7,331291.59,Individual
+BMW100399,2020,11,X7,North America,Grey,Diesel,Automatic,Dealership,124642.24,1,124642.24,Individual
+BMW100400,2021,9,5 Series,North America,Blue,Hybrid,Automatic,Dealership,72222.71,5,361113.55,Individual
+BMW100401,2025,4,i4,Asia,Red,Petrol,Manual,Dealership,73127.05,2,146254.1,Business
+BMW100402,2024,9,3 Series,Middle East,Grey,Petrol,Manual,Dealership,49331.47,1,49331.47,Business
+BMW100403,2021,10,X5,South America,Blue,Petrol,Automatic,Dealership,70074.52,5,350372.58,Individual
+BMW100404,2025,4,X7,Asia,Black,Diesel,Automatic,Dealership,121757.1,4,487028.4,Individual
+BMW100405,2022,2,3 Series,Asia,White,Petrol,Manual,Online,43953.95,2,87907.9,Individual
+BMW100406,2022,11,5 Series,North America,Red,Hybrid,Manual,Dealership,61972.92,5,309864.59,Individual
+BMW100407,2022,2,iX,Middle East,Blue,Electric,Automatic,Dealership,88077.06,8,704616.46,Individual
+BMW100408,2020,8,5 Series,Europe,Red,Petrol,Automatic,Online,71455.08,3,214365.25,Fleet
+BMW100409,2025,3,X1,Europe,Grey,Diesel,Automatic,Wholesale,39275.98,5,196379.91,Individual
+BMW100410,2019,2,X1,South America,Grey,Petrol,Manual,Wholesale,39048.49,1,39048.49,Individual
+BMW100411,2020,10,5 Series,Middle East,Blue,Petrol,Automatic,Online,58076.8,1,58076.8,Business
+BMW100412,2020,2,X5,Europe,Grey,Hybrid,Automatic,Wholesale,89073.81,3,267221.44,Individual
+BMW100413,2020,9,X5,Asia,Black,Diesel,Automatic,Dealership,84868.03,7,594076.19,Individual
+BMW100414,2019,9,7 Series,North America,Black,Electric,Automatic,Wholesale,93658.31,10,936583.14,Individual
+BMW100415,2019,1,X7,North America,Blue,Diesel,Automatic,Wholesale,102176.08,12,1226113.01,Fleet
+BMW100416,2023,3,3 Series,Europe,Grey,Petrol,Manual,Dealership,50284.91,10,502849.1,Individual
+BMW100417,2025,10,1 Series,Europe,Grey,Diesel,Automatic,Wholesale,34731.37,10,347313.72,Individual
+BMW100418,2019,7,X3,North America,Blue,Petrol,Automatic,Online,58245.98,15,873689.77,Business
+BMW100419,2021,2,iX,North America,White,Electric,Automatic,Online,90934.31,4,363737.25,Individual
+BMW100420,2022,12,1 Series,North America,Silver,Hybrid,Manual,Wholesale,41651.78,12,499821.31,Business
+BMW100421,2025,4,3 Series,Europe,Grey,Petrol,Automatic,Dealership,46384.45,15,695766.75,Individual
+BMW100422,2023,1,X1,Middle East,Black,Diesel,Automatic,Dealership,45517.23,9,409655.08,Individual
+BMW100423,2024,12,X7,Asia,Blue,Hybrid,Automatic,Online,103064.87,13,1339843.36,Individual
+BMW100424,2023,1,3 Series,Middle East,Silver,Hybrid,Automatic,Online,56004.39,3,168013.18,Fleet
+BMW100425,2021,7,7 Series,Europe,Silver,Petrol,Automatic,Wholesale,123293.86,14,1726114.04,Individual
+BMW100426,2020,12,X5,Asia,White,Petrol,Automatic,Wholesale,85934.35,9,773409.12,Individual
+BMW100427,2025,7,7 Series,Middle East,Red,Petrol,Manual,Online,107054.19,4,428216.77,Fleet
+BMW100428,2024,8,3 Series,North America,Grey,Diesel,Manual,Wholesale,45407.91,1,45407.91,Individual
+BMW100429,2019,5,3 Series,Europe,Blue,Diesel,Automatic,Dealership,53940.24,11,593342.59,Business
+BMW100430,2024,2,X1,Europe,Grey,Petrol,Manual,Wholesale,46238.06,7,323666.43,Individual
+BMW100431,2019,7,X1,Europe,Red,Diesel,Automatic,Dealership,39756.62,5,198783.1,Individual
+BMW100432,2024,11,i4,North America,White,Diesel,Automatic,Dealership,62952.6,6,377715.63,Business
+BMW100433,2024,2,X3,North America,Black,Petrol,Manual,Dealership,56036.18,15,840542.74,Business
+BMW100434,2019,11,X5,Europe,Blue,Electric,Automatic,Dealership,87978.01,7,615846.05,Individual
+BMW100435,2022,5,iX,Asia,Black,Diesel,Automatic,Dealership,97663.81,2,195327.61,Fleet
+BMW100436,2019,7,X1,Europe,Red,Diesel,Automatic,Dealership,45063.91,5,225319.56,Fleet
+BMW100437,2022,2,7 Series,North America,Red,Diesel,Automatic,Online,112869.56,3,338608.69,Business
+BMW100438,2025,8,i4,Asia,Grey,Petrol,Manual,Online,59590.74,11,655498.18,Individual
+BMW100439,2019,3,5 Series,Europe,Red,Electric,Automatic,Dealership,64448.37,13,837828.8,Individual
+BMW100440,2021,4,X5,Europe,Black,Diesel,Automatic,Online,69708.5,13,906210.47,Individual
+BMW100441,2025,9,X5,Europe,Grey,Diesel,Automatic,Dealership,87054.42,10,870544.23,Individual
+BMW100442,2021,1,3 Series,Europe,Blue,Electric,Manual,Dealership,48475.17,12,581702.09,Individual
+BMW100443,2019,6,X1,North America,White,Hybrid,Automatic,Dealership,42481.8,7,297372.62,Individual
+BMW100444,2022,8,3 Series,Europe,White,Hybrid,Automatic,Dealership,45773.13,10,457731.3,Individual
+BMW100445,2022,2,3 Series,Europe,Grey,Petrol,Automatic,Online,45255.75,2,90511.51,Individual
+BMW100446,2023,4,X1,South America,Grey,Petrol,Automatic,Dealership,44366.56,9,399299.01,Individual
+BMW100447,2021,5,5 Series,Middle East,Black,Hybrid,Automatic,Online,61734.78,9,555613.05,Individual
+BMW100448,2025,8,X7,Europe,Grey,Diesel,Automatic,Dealership,103415.21,1,103415.21,Individual
+BMW100449,2022,12,i4,Europe,Red,Hybrid,Automatic,Online,68835.64,9,619520.74,Fleet
+BMW100450,2021,11,X7,North America,Black,Hybrid,Automatic,Wholesale,114188.2,11,1256070.15,Business
+BMW100451,2025,3,5 Series,Middle East,Red,Petrol,Manual,Dealership,64614.59,6,387687.56,Individual
+BMW100452,2025,1,5 Series,Asia,Grey,Petrol,Automatic,Dealership,65610.71,9,590496.36,Individual
+BMW100453,2022,1,5 Series,Europe,Blue,Diesel,Automatic,Dealership,73093.37,5,365466.87,Business
+BMW100454,2019,8,3 Series,Europe,Silver,Petrol,Automatic,Dealership,46860.05,5,234300.26,Individual
+BMW100455,2023,2,iX,North America,Grey,Hybrid,Automatic,Dealership,99666.98,2,199333.96,Business
+BMW100456,2022,3,7 Series,Middle East,Silver,Hybrid,Automatic,Dealership,121995.66,5,609978.31,Individual
+BMW100457,2020,11,3 Series,Middle East,Black,Diesel,Manual,Wholesale,51756.5,13,672834.53,Individual
+BMW100458,2023,11,X7,Europe,Black,Hybrid,Automatic,Wholesale,116093.0,15,1741394.96,Individual
+BMW100459,2024,11,7 Series,North America,Grey,Diesel,Automatic,Dealership,115955.38,10,1159553.76,Business
+BMW100460,2019,4,1 Series,Europe,White,Hybrid,Automatic,Dealership,36625.29,10,366252.92,Fleet
+BMW100461,2024,8,3 Series,Asia,White,Petrol,Automatic,Dealership,48207.75,10,482077.53,Business
+BMW100462,2019,8,X3,Middle East,Blue,Hybrid,Manual,Dealership,57067.17,8,456537.38,Individual
+BMW100463,2024,3,X5,North America,Silver,Hybrid,Automatic,Wholesale,76074.7,7,532522.92,Business
+BMW100464,2021,7,3 Series,Europe,White,Petrol,Manual,Dealership,43741.2,10,437412.03,Individual
+BMW100465,2019,7,i4,North America,Red,Diesel,Automatic,Dealership,62276.25,12,747314.97,Individual
+BMW100466,2025,5,i4,North America,Blue,Electric,Automatic,Dealership,56863.74,7,398046.17,Fleet
+BMW100467,2020,10,X7,Asia,Black,Petrol,Automatic,Dealership,115360.23,9,1038242.08,Individual
+BMW100468,2023,9,3 Series,North America,Black,Hybrid,Automatic,Dealership,50259.85,8,402078.76,Fleet
+BMW100469,2020,7,1 Series,Middle East,Red,Electric,Automatic,Dealership,41731.68,5,208658.4,Individual
+BMW100470,2025,9,i4,Europe,Black,Electric,Automatic,Online,55233.74,5,276168.68,Individual
+BMW100471,2024,10,5 Series,Europe,Blue,Diesel,Manual,Dealership,69318.44,2,138636.88,Individual
+BMW100472,2024,7,X3,Europe,Silver,Diesel,Automatic,Wholesale,55952.63,7,391668.41,Fleet
+BMW100473,2022,4,X5,Europe,Grey,Electric,Manual,Dealership,69114.11,11,760255.21,Individual
+BMW100474,2022,10,3 Series,Europe,White,Diesel,Automatic,Online,45833.49,11,504168.43,Business
+BMW100475,2023,9,X5,Asia,Black,Petrol,Automatic,Dealership,71412.55,15,1071188.32,Individual
+BMW100476,2024,12,iX,Europe,Silver,Petrol,Automatic,Dealership,85053.44,1,85053.44,Business
+BMW100477,2024,2,X5,Europe,Blue,Hybrid,Automatic,Wholesale,75064.94,12,900779.32,Individual
+BMW100478,2019,6,X1,Europe,Black,Diesel,Manual,Online,42016.46,12,504197.52,Individual
+BMW100479,2023,12,i4,Europe,White,Petrol,Manual,Dealership,64400.13,7,450800.93,Business
+BMW100480,2019,7,X1,Middle East,Grey,Petrol,Manual,Dealership,36972.47,5,184862.37,Business
+BMW100481,2021,12,X5,South America,White,Hybrid,Manual,Online,72427.74,6,434566.46,Individual
+BMW100482,2024,1,X7,Europe,Blue,Diesel,Automatic,Wholesale,104428.04,11,1148708.44,Individual
+BMW100483,2020,1,X5,Asia,Black,Electric,Automatic,Online,81502.36,13,1059530.65,Individual
+BMW100484,2024,10,5 Series,Asia,Silver,Hybrid,Manual,Dealership,63616.96,10,636169.6,Fleet
+BMW100485,2022,5,3 Series,South America,Grey,Electric,Automatic,Dealership,50136.93,8,401095.42,Individual
+BMW100486,2020,7,3 Series,North America,Silver,Electric,Manual,Dealership,45434.26,10,454342.56,Business
+BMW100487,2021,6,X1,Europe,Black,Petrol,Automatic,Dealership,37265.29,2,74530.58,Business
+BMW100488,2022,5,X1,North America,Blue,Diesel,Automatic,Dealership,48821.22,10,488212.23,Business
+BMW100489,2024,12,X3,Middle East,White,Petrol,Automatic,Online,50187.08,1,50187.08,Individual
+BMW100490,2023,2,7 Series,Asia,Grey,Electric,Automatic,Dealership,96396.05,15,1445940.76,Individual
+BMW100491,2025,10,X5,North America,Silver,Petrol,Automatic,Online,72069.2,14,1008968.74,Business
+BMW100492,2025,11,i4,Europe,White,Hybrid,Automatic,Online,72811.74,8,582493.95,Individual
+BMW100493,2024,8,5 Series,Asia,Silver,Electric,Automatic,Online,69244.37,6,415466.25,Individual
+BMW100494,2023,5,X5,Middle East,Grey,Petrol,Automatic,Dealership,82920.78,11,912128.63,Individual
+BMW100495,2021,2,X5,North America,Silver,Electric,Automatic,Dealership,91728.74,10,917287.38,Business
+BMW100496,2021,9,X1,Asia,Black,Petrol,Automatic,Dealership,38074.33,11,418817.61,Business
+BMW100497,2019,6,3 Series,North America,Red,Diesel,Automatic,Dealership,56272.81,8,450182.5,Individual
+BMW100498,2021,2,X7,North America,Blue,Diesel,Manual,Dealership,108238.45,4,432953.81,Fleet
+BMW100499,2025,5,iX,North America,White,Petrol,Automatic,Dealership,96022.93,2,192045.86,Individual
+BMW100500,2021,12,X5,Asia,White,Diesel,Automatic,Dealership,78469.96,5,392349.78,Individual
+BMW100501,2019,4,i4,South America,Red,Electric,Automatic,Dealership,61701.5,8,493612.03,Fleet
+BMW100502,2023,3,iX,North America,Red,Petrol,Automatic,Wholesale,104343.57,7,730404.99,Business
+BMW100503,2025,9,5 Series,North America,Black,Diesel,Automatic,Online,60109.94,8,480879.53,Fleet
+BMW100504,2025,3,X3,North America,Blue,Electric,Automatic,Dealership,64851.64,5,324258.19,Business
+BMW100505,2020,12,X1,Europe,Silver,Hybrid,Automatic,Wholesale,41736.98,15,626054.64,Individual
+BMW100506,2022,11,iX,Europe,Grey,Petrol,Automatic,Dealership,96716.92,6,580301.53,Individual
+BMW100507,2022,12,3 Series,Europe,White,Electric,Automatic,Dealership,56177.86,13,730312.14,Individual
+BMW100508,2020,11,X1,North America,Blue,Petrol,Automatic,Online,37685.77,6,226114.64,Fleet
+BMW100509,2020,3,i4,Europe,Blue,Diesel,Automatic,Dealership,71725.28,7,502076.94,Business
+BMW100510,2020,3,5 Series,North America,White,Diesel,Automatic,Dealership,68272.32,10,682723.22,Individual
+BMW100511,2025,5,X5,Asia,Red,Hybrid,Automatic,Dealership,85122.89,4,340491.55,Individual
+BMW100512,2024,6,7 Series,Europe,White,Petrol,Automatic,Dealership,97099.3,4,388397.21,Individual
+BMW100513,2024,11,iX,Asia,Silver,Petrol,Automatic,Online,93601.46,6,561608.76,Individual
+BMW100514,2024,9,i4,Middle East,Red,Hybrid,Automatic,Dealership,67087.36,13,872135.62,Business
+BMW100515,2025,8,5 Series,North America,Silver,Petrol,Automatic,Dealership,66096.82,3,198290.47,Individual
+BMW100516,2019,11,X5,Europe,Silver,Diesel,Automatic,Dealership,72266.65,7,505866.57,Individual
+BMW100517,2025,8,5 Series,North America,Black,Hybrid,Automatic,Dealership,61960.32,11,681563.54,Fleet
+BMW100518,2019,5,X3,Asia,Black,Diesel,Manual,Dealership,62497.48,11,687472.29,Individual
+BMW100519,2022,5,X3,North America,Silver,Petrol,Automatic,Wholesale,48968.77,7,342781.4,Individual
+BMW100520,2023,7,X7,Europe,Silver,Petrol,Automatic,Online,125655.74,2,251311.48,Individual
+BMW100521,2021,2,1 Series,North America,Silver,Electric,Automatic,Dealership,42473.41,1,42473.41,Individual
+BMW100522,2020,9,3 Series,North America,Blue,Diesel,Manual,Online,42347.76,8,338782.04,Individual
+BMW100523,2020,8,X5,Europe,Grey,Petrol,Automatic,Dealership,72408.47,13,941310.1,Individual
+BMW100524,2024,9,X3,Asia,Black,Petrol,Automatic,Dealership,59523.38,1,59523.38,Individual
+BMW100525,2021,7,X1,Europe,White,Petrol,Manual,Dealership,37715.88,14,528022.38,Individual
+BMW100526,2021,10,1 Series,North America,Grey,Electric,Automatic,Dealership,38049.73,11,418547.05,Individual
+BMW100527,2025,12,5 Series,Asia,Black,Petrol,Automatic,Online,70538.0,1,70538.0,Individual
+BMW100528,2020,7,i4,Europe,Black,Petrol,Automatic,Wholesale,65499.52,6,392997.13,Fleet
+BMW100529,2025,6,1 Series,Asia,Black,Diesel,Automatic,Dealership,35623.99,4,142495.98,Individual
+BMW100530,2025,2,7 Series,North America,White,Petrol,Automatic,Dealership,114364.39,15,1715465.88,Individual
+BMW100531,2023,10,iX,Europe,Red,Petrol,Automatic,Dealership,95245.95,9,857213.55,Business
+BMW100532,2020,11,1 Series,Middle East,Silver,Electric,Automatic,Dealership,33922.48,5,169612.41,Individual
+BMW100533,2020,9,X5,North America,Red,Hybrid,Automatic,Dealership,81817.37,5,409086.86,Individual
+BMW100534,2020,11,5 Series,Europe,White,Petrol,Automatic,Wholesale,74397.19,9,669574.72,Business
+BMW100535,2023,11,i4,Middle East,Grey,Diesel,Manual,Online,66963.1,1,66963.1,Individual
+BMW100536,2020,10,X5,Asia,Red,Petrol,Automatic,Wholesale,79679.92,4,318719.69,Individual
+BMW100537,2022,7,i4,Asia,Blue,Petrol,Automatic,Dealership,60541.46,3,181624.39,Business
+BMW100538,2019,2,3 Series,Europe,Grey,Diesel,Automatic,Dealership,43476.76,10,434767.61,Business
+BMW100539,2022,1,X3,Europe,Silver,Diesel,Automatic,Dealership,52436.35,11,576799.82,Individual
+BMW100540,2019,3,X5,Asia,Silver,Hybrid,Automatic,Wholesale,68901.77,8,551214.16,Individual
+BMW100541,2023,6,5 Series,Europe,Red,Electric,Automatic,Dealership,76439.21,3,229317.62,Individual
+BMW100542,2019,9,3 Series,Europe,Grey,Petrol,Automatic,Dealership,45443.74,6,272662.47,Business
+BMW100543,2020,6,1 Series,Asia,Grey,Electric,Manual,Dealership,40480.66,13,526248.58,Individual
+BMW100544,2020,1,iX,Europe,Red,Diesel,Manual,Online,83753.41,4,335013.65,Individual
+BMW100545,2024,3,X5,Europe,Silver,Petrol,Manual,Online,75276.27,3,225828.8,Individual
+BMW100546,2019,12,X3,Europe,Blue,Electric,Automatic,Online,55301.58,2,110603.15,Fleet
+BMW100547,2022,12,X5,North America,Grey,Petrol,Automatic,Dealership,76231.09,13,991004.2,Individual
+BMW100548,2023,5,X3,Asia,Grey,Diesel,Automatic,Online,61572.79,2,123145.58,Individual
+BMW100549,2022,10,X1,Middle East,White,Hybrid,Automatic,Dealership,49026.94,9,441242.43,Individual
+BMW100550,2023,9,X1,Europe,Grey,Petrol,Manual,Dealership,47988.71,15,719830.66,Business
+BMW100551,2024,12,X3,Europe,Grey,Electric,Manual,Dealership,50934.03,10,509340.35,Individual
+BMW100552,2021,11,3 Series,North America,Red,Petrol,Automatic,Dealership,53424.32,7,373970.22,Business
+BMW100553,2024,8,i4,North America,Grey,Hybrid,Manual,Dealership,57311.81,4,229247.25,Individual
+BMW100554,2021,5,X7,North America,Black,Petrol,Manual,Wholesale,132711.65,1,132711.65,Individual
+BMW100555,2025,8,5 Series,Middle East,Red,Petrol,Automatic,Dealership,67298.63,3,201895.9,Individual
+BMW100556,2022,4,X3,North America,Grey,Diesel,Manual,Dealership,53950.29,15,809254.32,Individual
+BMW100557,2024,5,3 Series,North America,White,Electric,Automatic,Online,44501.17,3,133503.5,Individual
+BMW100558,2025,8,iX,South America,Silver,Petrol,Automatic,Online,79518.85,1,79518.85,Business
+BMW100559,2024,7,i4,Europe,Blue,Electric,Automatic,Dealership,59171.81,13,769233.58,Individual
+BMW100560,2024,7,i4,Middle East,Blue,Petrol,Automatic,Dealership,71560.77,7,500925.41,Business
+BMW100561,2022,5,5 Series,North America,Red,Diesel,Automatic,Dealership,72746.61,6,436479.68,Individual
+BMW100562,2019,5,3 Series,North America,Red,Petrol,Manual,Dealership,56205.03,11,618255.32,Individual
+BMW100563,2022,1,3 Series,Middle East,Grey,Petrol,Automatic,Online,43690.97,8,349527.73,Individual
+BMW100564,2020,8,3 Series,North America,Blue,Electric,Automatic,Dealership,50767.37,14,710743.23,Individual
+BMW100565,2025,7,3 Series,North America,Red,Diesel,Automatic,Dealership,45942.97,8,367543.73,Individual
+BMW100566,2020,12,1 Series,Europe,White,Hybrid,Automatic,Dealership,37543.77,11,412981.47,Fleet
+BMW100567,2020,7,iX,Asia,Silver,Diesel,Automatic,Dealership,87852.28,14,1229931.95,Fleet
+BMW100568,2020,6,1 Series,North America,Grey,Diesel,Automatic,Dealership,34741.43,7,243190.0,Business
+BMW100569,2023,1,3 Series,Europe,Red,Diesel,Manual,Wholesale,50503.37,5,252516.86,Business
+BMW100570,2022,3,X7,Asia,Blue,Electric,Automatic,Dealership,107524.48,15,1612867.15,Individual
+BMW100571,2025,5,X3,Asia,Silver,Hybrid,Automatic,Wholesale,56140.7,4,224562.81,Individual
+BMW100572,2021,5,X5,North America,Black,Diesel,Automatic,Dealership,83869.01,1,83869.01,Individual
+BMW100573,2020,5,X3,Europe,Silver,Diesel,Automatic,Online,50515.0,9,454635.04,Business
+BMW100574,2019,5,i4,North America,Black,Diesel,Manual,Dealership,71869.05,15,1078035.8,Individual
+BMW100575,2019,10,X3,Europe,Grey,Diesel,Automatic,Dealership,56744.46,2,113488.92,Individual
+BMW100576,2021,2,X1,Europe,White,Diesel,Automatic,Dealership,47286.05,13,614718.68,Business
+BMW100577,2025,4,X5,North America,Red,Diesel,Automatic,Dealership,83941.39,13,1091238.03,Individual
+BMW100578,2022,2,X1,Europe,Silver,Hybrid,Manual,Wholesale,45906.01,14,642684.17,Business
+BMW100579,2025,4,5 Series,Europe,Black,Electric,Automatic,Online,71164.55,7,498151.87,Individual
+BMW100580,2019,9,X1,Asia,Red,Electric,Automatic,Online,47986.26,4,191945.03,Business
+BMW100581,2019,1,3 Series,Europe,White,Hybrid,Automatic,Dealership,51075.92,8,408607.35,Business
+BMW100582,2024,5,X7,South America,Grey,Diesel,Automatic,Dealership,110798.49,3,332395.48,Individual
+BMW100583,2019,1,5 Series,Middle East,Black,Hybrid,Automatic,Online,59140.44,13,768825.69,Individual
+BMW100584,2019,12,3 Series,North America,Black,Petrol,Automatic,Online,50970.01,10,509700.09,Individual
+BMW100585,2021,9,5 Series,South America,White,Diesel,Automatic,Dealership,58493.88,8,467951.04,Individual
+BMW100586,2025,3,X7,Middle East,Grey,Petrol,Manual,Online,109524.62,8,876196.99,Individual
+BMW100587,2023,3,5 Series,Europe,Grey,Petrol,Automatic,Dealership,58383.79,11,642221.69,Individual
+BMW100588,2019,2,X5,Asia,Red,Electric,Manual,Wholesale,81483.97,8,651871.76,Individual
+BMW100589,2024,6,i4,Europe,Black,Electric,Automatic,Dealership,57542.29,13,748049.76,Individual
+BMW100590,2024,10,1 Series,Asia,Silver,Diesel,Automatic,Dealership,38272.4,14,535813.59,Individual
+BMW100591,2024,8,X5,North America,Black,Petrol,Automatic,Wholesale,87146.24,15,1307193.66,Fleet
+BMW100592,2025,11,5 Series,Europe,White,Hybrid,Automatic,Dealership,73226.67,10,732266.74,Individual
+BMW100593,2020,5,3 Series,Europe,White,Diesel,Automatic,Dealership,46697.43,12,560369.12,Individual
+BMW100594,2025,4,X5,South America,Black,Hybrid,Automatic,Dealership,81485.54,5,407427.68,Individual
+BMW100595,2021,6,i4,Europe,Grey,Electric,Automatic,Dealership,65032.0,1,65032.0,Individual
+BMW100596,2024,3,5 Series,Europe,Red,Petrol,Automatic,Wholesale,66421.3,7,464949.1,Fleet
+BMW100597,2023,12,X3,Europe,Silver,Petrol,Automatic,Online,59209.38,14,828931.31,Individual
+BMW100598,2024,3,5 Series,North America,Red,Petrol,Manual,Dealership,61296.7,3,183890.1,Business
+BMW100599,2023,6,X3,Middle East,Grey,Petrol,Automatic,Wholesale,64557.51,9,581017.62,Individual
+BMW100600,2023,7,X3,Asia,Black,Diesel,Automatic,Online,50018.32,3,150054.95,Business
+BMW100601,2023,1,X3,North America,Blue,Petrol,Automatic,Wholesale,62082.15,7,434575.04,Individual
+BMW100602,2024,6,X3,Europe,Silver,Petrol,Manual,Dealership,58202.58,3,174607.75,Business
+BMW100603,2024,6,3 Series,Europe,Black,Petrol,Automatic,Dealership,45765.91,12,549190.9,Individual
+BMW100604,2019,4,X5,North America,Black,Petrol,Automatic,Dealership,86088.8,13,1119154.34,Individual
+BMW100605,2024,2,X5,Asia,Red,Hybrid,Automatic,Dealership,70616.85,12,847402.24,Business
+BMW100606,2022,1,X5,Asia,Black,Petrol,Automatic,Online,86761.38,11,954375.15,Individual
+BMW100607,2021,1,1 Series,North America,Red,Electric,Manual,Dealership,38051.84,4,152207.36,Individual
+BMW100608,2022,6,X1,Asia,Silver,Petrol,Automatic,Dealership,38355.45,8,306843.63,Individual
+BMW100609,2025,2,7 Series,North America,Grey,Petrol,Manual,Online,94904.43,2,189808.85,Individual
+BMW100610,2025,12,3 Series,North America,Grey,Petrol,Automatic,Dealership,53052.04,6,318312.26,Individual
+BMW100611,2024,3,3 Series,North America,Black,Hybrid,Automatic,Dealership,46458.28,8,371666.22,Individual
+BMW100612,2022,8,X1,Asia,Blue,Petrol,Automatic,Online,48165.2,11,529817.24,Individual
+BMW100613,2024,9,X5,North America,Silver,Diesel,Automatic,Wholesale,86472.51,2,172945.02,Individual
+BMW100614,2021,6,3 Series,South America,Red,Petrol,Automatic,Dealership,52293.94,13,679821.21,Individual
+BMW100615,2023,11,X7,North America,Blue,Electric,Automatic,Wholesale,110811.91,7,775683.36,Business
+BMW100616,2023,2,X3,Europe,Red,Petrol,Automatic,Online,60097.58,14,841366.18,Individual
+BMW100617,2020,3,X5,Europe,Silver,Diesel,Automatic,Online,90826.66,8,726613.25,Business
+BMW100618,2020,4,X1,North America,Black,Electric,Automatic,Dealership,38113.65,9,343022.89,Individual
+BMW100619,2019,2,X1,North America,Grey,Petrol,Manual,Online,41069.65,11,451766.14,Individual
+BMW100620,2019,4,X3,North America,Grey,Petrol,Automatic,Online,52272.09,13,679537.2,Business
+BMW100621,2022,4,i4,Asia,Grey,Hybrid,Automatic,Dealership,61874.45,3,185623.36,Business
+BMW100622,2022,10,X1,Europe,Silver,Petrol,Automatic,Wholesale,46313.39,8,370507.13,Business
+BMW100623,2020,4,X1,Asia,Red,Petrol,Automatic,Wholesale,42935.46,1,42935.46,Business
+BMW100624,2021,11,X3,Asia,Grey,Diesel,Automatic,Dealership,57817.06,8,462536.44,Business
+BMW100625,2023,10,X5,North America,White,Petrol,Manual,Online,75991.22,13,987885.92,Business
+BMW100626,2020,11,1 Series,North America,Red,Electric,Automatic,Dealership,33205.92,13,431677.01,Business
+BMW100627,2021,2,X1,Europe,Red,Diesel,Manual,Online,40323.36,5,201616.82,Business
+BMW100628,2021,12,X1,North America,Silver,Diesel,Automatic,Online,47791.97,6,286751.83,Individual
+BMW100629,2022,8,i4,Asia,Grey,Petrol,Manual,Dealership,65764.96,9,591884.6,Individual
+BMW100630,2021,12,X1,Middle East,Black,Hybrid,Automatic,Dealership,41722.66,6,250335.94,Individual
+BMW100631,2024,5,X1,Asia,Blue,Hybrid,Manual,Dealership,46912.82,3,140738.45,Individual
+BMW100632,2021,12,iX,Europe,White,Petrol,Automatic,Wholesale,80940.35,5,404701.75,Business
+BMW100633,2022,8,X1,Asia,Grey,Electric,Automatic,Dealership,40159.03,7,281113.19,Individual
+BMW100634,2021,1,3 Series,Asia,Silver,Diesel,Automatic,Wholesale,45553.49,8,364427.88,Individual
+BMW100635,2020,5,3 Series,North America,White,Hybrid,Automatic,Dealership,56429.25,14,790009.5,Business
+BMW100636,2023,2,3 Series,Asia,Red,Petrol,Automatic,Dealership,52407.82,9,471670.38,Individual
+BMW100637,2020,12,1 Series,Europe,Black,Petrol,Automatic,Wholesale,38352.09,6,230112.53,Business
+BMW100638,2021,4,X1,Europe,Black,Hybrid,Automatic,Dealership,37022.81,10,370228.11,Individual
+BMW100639,2024,3,X5,Europe,Red,Hybrid,Automatic,Dealership,72952.85,12,875434.25,Individual
+BMW100640,2025,7,X5,Europe,Black,Diesel,Automatic,Dealership,83511.67,7,584581.66,Individual
+BMW100641,2023,6,1 Series,Middle East,Silver,Petrol,Manual,Dealership,35780.97,8,286247.75,Individual
+BMW100642,2025,2,X3,North America,Silver,Hybrid,Automatic,Dealership,63650.63,4,254602.51,Individual
+BMW100643,2024,10,3 Series,Europe,White,Petrol,Automatic,Dealership,53252.03,13,692276.37,Individual
+BMW100644,2022,11,iX,North America,Black,Petrol,Automatic,Dealership,91279.37,14,1277911.18,Individual
+BMW100645,2024,9,3 Series,North America,White,Diesel,Automatic,Dealership,53033.02,3,159099.05,Individual
+BMW100646,2021,8,X3,Europe,Black,Petrol,Automatic,Dealership,64494.17,6,386965.03,Business
+BMW100647,2022,5,5 Series,Europe,Silver,Petrol,Automatic,Dealership,66189.13,5,330945.63,Individual
+BMW100648,2022,7,X3,Asia,Red,Petrol,Automatic,Dealership,59001.68,14,826023.48,Individual
+BMW100649,2025,7,X1,Europe,Red,Electric,Automatic,Wholesale,48535.17,1,48535.17,Individual
+BMW100650,2024,2,X5,Asia,Silver,Petrol,Automatic,Dealership,74458.99,4,297835.95,Fleet
+BMW100651,2022,1,3 Series,Europe,Silver,Hybrid,Automatic,Dealership,55006.43,5,275032.17,Business
+BMW100652,2023,4,i4,Asia,Red,Electric,Manual,Dealership,56374.33,9,507368.98,Fleet
+BMW100653,2020,6,X1,Asia,Silver,Hybrid,Automatic,Wholesale,45130.45,4,180521.79,Fleet
+BMW100654,2024,2,X5,Europe,Grey,Diesel,Automatic,Online,86958.41,9,782625.72,Individual
+BMW100655,2022,2,X7,Europe,Red,Diesel,Automatic,Online,122403.91,12,1468846.97,Business
+BMW100656,2022,11,iX,South America,White,Petrol,Manual,Wholesale,92579.44,13,1203532.72,Individual
+BMW100657,2024,5,3 Series,North America,Blue,Diesel,Automatic,Online,51129.8,2,102259.6,Business
+BMW100658,2023,8,5 Series,Asia,Red,Electric,Automatic,Wholesale,60157.44,3,180472.33,Individual
+BMW100659,2019,7,5 Series,Europe,White,Hybrid,Manual,Dealership,61403.63,2,122807.26,Individual
+BMW100660,2021,9,5 Series,Europe,White,Diesel,Automatic,Online,62463.04,14,874482.52,Fleet
+BMW100661,2020,9,X3,North America,Black,Petrol,Automatic,Wholesale,58263.36,10,582633.59,Business
+BMW100662,2024,4,iX,Middle East,White,Electric,Automatic,Wholesale,91131.33,8,729050.63,Fleet
+BMW100663,2019,11,iX,Europe,Grey,Petrol,Automatic,Dealership,85800.85,12,1029610.17,Individual
+BMW100664,2020,5,X1,Asia,Red,Electric,Automatic,Online,48083.4,9,432750.58,Individual
+BMW100665,2023,11,X3,Asia,Black,Petrol,Automatic,Dealership,54569.71,4,218278.84,Individual
+BMW100666,2023,5,i4,Europe,Silver,Hybrid,Automatic,Dealership,62856.19,8,502849.52,Individual
+BMW100667,2022,2,iX,Europe,Silver,Hybrid,Automatic,Dealership,90261.93,11,992881.22,Individual
+BMW100668,2025,10,3 Series,Europe,Red,Diesel,Automatic,Dealership,44859.98,1,44859.98,Individual
+BMW100669,2025,1,X1,North America,Silver,Petrol,Automatic,Online,46178.5,10,461785.0,Business
+BMW100670,2019,10,X7,Asia,Black,Electric,Automatic,Dealership,116671.81,8,933374.48,Individual
+BMW100671,2025,1,5 Series,North America,Blue,Petrol,Automatic,Dealership,57517.01,2,115034.03,Business
+BMW100672,2023,3,X1,Europe,Red,Petrol,Automatic,Dealership,49106.57,4,196426.29,Business
+BMW100673,2023,8,iX,Asia,Red,Diesel,Automatic,Online,101225.62,7,708579.32,Individual
+BMW100674,2019,12,iX,North America,Grey,Diesel,Automatic,Online,98736.1,6,592416.62,Individual
+BMW100675,2023,5,i4,North America,Red,Hybrid,Automatic,Online,70725.11,5,353625.54,Individual
+BMW100676,2024,2,X7,North America,Silver,Petrol,Automatic,Dealership,132484.85,10,1324848.5,Individual
+BMW100677,2023,3,5 Series,Europe,Black,Diesel,Automatic,Online,63781.05,7,446467.34,Business
+BMW100678,2019,11,5 Series,Asia,Red,Electric,Automatic,Online,69113.69,8,552909.55,Individual
+BMW100679,2022,9,X3,North America,White,Petrol,Manual,Dealership,58445.33,12,701343.95,Individual
+BMW100680,2025,2,X3,North America,Blue,Diesel,Manual,Dealership,52810.44,2,105620.89,Fleet
+BMW100681,2024,5,X1,Europe,White,Hybrid,Automatic,Dealership,39756.6,6,238539.59,Business
+BMW100682,2019,4,X3,Asia,Silver,Electric,Automatic,Dealership,50279.47,2,100558.94,Business
+BMW100683,2025,3,7 Series,Asia,Black,Diesel,Automatic,Dealership,113168.4,14,1584357.56,Individual
+BMW100684,2025,11,X5,North America,Grey,Hybrid,Automatic,Dealership,86913.5,3,260740.51,Fleet
+BMW100685,2020,8,5 Series,Middle East,Red,Petrol,Automatic,Dealership,72038.58,13,936501.58,Individual
+BMW100686,2024,3,5 Series,Middle East,Silver,Petrol,Automatic,Dealership,63367.37,3,190102.11,Individual
+BMW100687,2021,8,3 Series,Europe,White,Electric,Automatic,Dealership,45195.74,5,225978.71,Business
+BMW100688,2023,5,3 Series,Asia,Red,Electric,Automatic,Online,48772.04,10,487720.44,Business
+BMW100689,2022,1,i4,North America,Blue,Diesel,Automatic,Dealership,64730.73,13,841499.49,Individual
+BMW100690,2024,6,X1,South America,Silver,Diesel,Automatic,Dealership,48540.5,3,145621.49,Individual
+BMW100691,2025,3,3 Series,Europe,Grey,Diesel,Automatic,Online,54837.45,4,219349.81,Individual
+BMW100692,2024,3,X5,Europe,Black,Petrol,Manual,Dealership,90075.76,14,1261060.71,Business
+BMW100693,2025,11,X3,North America,Black,Electric,Automatic,Dealership,62429.33,5,312146.65,Business
+BMW100694,2025,9,1 Series,Europe,White,Hybrid,Automatic,Dealership,42097.48,4,168389.91,Individual
+BMW100695,2019,2,5 Series,Asia,Red,Diesel,Automatic,Dealership,66277.25,12,795327.0,Individual
+BMW100696,2020,11,3 Series,North America,Red,Petrol,Automatic,Dealership,42923.62,2,85847.24,Business
+BMW100697,2024,7,X3,Europe,Blue,Petrol,Automatic,Dealership,49778.77,14,696902.83,Business
+BMW100698,2023,11,5 Series,North America,Red,Petrol,Automatic,Dealership,64810.38,14,907345.39,Individual
+BMW100699,2019,9,1 Series,Middle East,Black,Hybrid,Manual,Dealership,34463.02,13,448019.27,Individual
+BMW100700,2019,5,1 Series,Asia,Red,Diesel,Automatic,Wholesale,33515.36,5,167576.79,Fleet
+BMW100701,2022,7,X3,North America,White,Petrol,Automatic,Dealership,64127.86,2,128255.72,Individual
+BMW100702,2023,7,1 Series,Europe,Black,Diesel,Automatic,Dealership,33790.53,7,236533.72,Individual
+BMW100703,2020,9,X7,Europe,Silver,Electric,Manual,Dealership,134298.58,6,805791.51,Individual
+BMW100704,2020,3,3 Series,Middle East,Blue,Petrol,Automatic,Online,53196.08,15,797941.19,Individual
+BMW100705,2019,4,X3,Asia,White,Diesel,Manual,Online,58975.6,10,589756.04,Business
+BMW100706,2022,3,X1,North America,Silver,Diesel,Automatic,Online,45477.84,15,682167.58,Individual
+BMW100707,2019,4,X1,Middle East,White,Petrol,Automatic,Dealership,41136.58,12,493638.92,Individual
+BMW100708,2023,2,1 Series,Europe,Silver,Diesel,Manual,Dealership,38661.41,11,425275.53,Individual
+BMW100709,2022,1,X7,Asia,White,Diesel,Automatic,Online,107640.88,2,215281.76,Business
+BMW100710,2022,12,i4,Europe,Black,Petrol,Automatic,Dealership,72001.32,2,144002.64,Individual
+BMW100711,2023,1,1 Series,Europe,White,Petrol,Manual,Wholesale,34939.37,1,34939.37,Individual
+BMW100712,2022,11,3 Series,North America,Grey,Electric,Automatic,Dealership,45914.69,9,413232.17,Individual
+BMW100713,2024,1,i4,North America,White,Petrol,Automatic,Dealership,67787.63,4,271150.51,Individual
+BMW100714,2024,10,X3,South America,Black,Diesel,Manual,Dealership,59231.4,15,888471.06,Fleet
+BMW100715,2025,4,3 Series,North America,Silver,Diesel,Manual,Dealership,48738.7,2,97477.41,Business
+BMW100716,2024,7,3 Series,Asia,Blue,Hybrid,Manual,Online,51347.23,15,770208.39,Business
+BMW100717,2022,4,X3,Asia,Blue,Hybrid,Manual,Dealership,51031.64,11,561347.99,Individual
+BMW100718,2022,6,X5,Asia,White,Electric,Automatic,Dealership,84395.88,2,168791.76,Individual
+BMW100719,2020,6,X3,Middle East,Black,Diesel,Manual,Dealership,52865.08,1,52865.08,Fleet
+BMW100720,2023,7,iX,North America,Black,Diesel,Automatic,Wholesale,86566.57,6,519399.43,Individual
+BMW100721,2019,5,X1,North America,Silver,Diesel,Automatic,Dealership,39003.47,6,234020.8,Business
+BMW100722,2025,7,5 Series,Europe,Black,Petrol,Automatic,Wholesale,63681.35,5,318406.77,Individual
+BMW100723,2024,10,X1,Europe,White,Diesel,Manual,Wholesale,41133.76,8,329070.11,Individual
+BMW100724,2019,6,5 Series,Middle East,Red,Petrol,Automatic,Dealership,66056.49,2,132112.98,Individual
+BMW100725,2024,5,3 Series,North America,Blue,Diesel,Manual,Wholesale,44982.04,2,89964.08,Individual
+BMW100726,2019,2,1 Series,North America,Silver,Diesel,Automatic,Wholesale,33764.48,11,371409.3,Individual
+BMW100727,2024,5,5 Series,Europe,Blue,Petrol,Automatic,Dealership,67763.9,15,1016458.53,Individual
+BMW100728,2019,2,X5,North America,Red,Petrol,Automatic,Dealership,71655.73,5,358278.66,Individual
+BMW100729,2022,3,1 Series,Asia,Silver,Hybrid,Automatic,Dealership,39120.09,14,547681.23,Individual
+BMW100730,2023,12,X1,Europe,Blue,Diesel,Automatic,Online,48853.73,6,293122.4,Business
+BMW100731,2024,2,X3,Asia,Silver,Hybrid,Automatic,Dealership,55442.13,6,332652.77,Individual
+BMW100732,2021,6,X3,Asia,Blue,Diesel,Automatic,Online,63268.24,2,126536.48,Business
+BMW100733,2025,11,X5,Asia,Red,Electric,Automatic,Dealership,70940.61,7,496584.26,Individual
+BMW100734,2024,12,X7,Europe,Blue,Hybrid,Automatic,Dealership,102682.04,8,821456.31,Individual
+BMW100735,2020,2,X5,Asia,Red,Petrol,Automatic,Dealership,85520.03,10,855200.32,Individual
+BMW100736,2023,2,3 Series,Europe,Grey,Electric,Automatic,Online,53198.71,3,159596.13,Fleet
+BMW100737,2024,5,X1,North America,Grey,Petrol,Automatic,Dealership,47582.53,3,142747.6,Individual
+BMW100738,2021,7,X3,Asia,Blue,Diesel,Automatic,Online,49337.49,7,345362.44,Fleet
+BMW100739,2024,12,5 Series,Asia,Silver,Hybrid,Automatic,Dealership,72349.69,2,144699.38,Individual
+BMW100740,2025,3,1 Series,Europe,Silver,Petrol,Automatic,Dealership,35746.62,3,107239.85,Business
+BMW100741,2024,2,3 Series,Middle East,Silver,Diesel,Automatic,Dealership,46608.06,10,466080.62,Business
+BMW100742,2024,4,X1,Europe,Silver,Petrol,Automatic,Wholesale,39140.1,15,587101.52,Fleet
+BMW100743,2023,11,X1,Asia,Black,Petrol,Automatic,Dealership,49509.8,9,445588.19,Individual
+BMW100744,2020,1,3 Series,South America,Red,Petrol,Automatic,Online,43156.76,3,129470.27,Fleet
+BMW100745,2024,5,X7,North America,Red,Petrol,Automatic,Dealership,129731.78,15,1945976.65,Individual
+BMW100746,2021,2,i4,Asia,White,Petrol,Automatic,Online,66454.6,8,531636.77,Business
+BMW100747,2022,2,3 Series,Asia,Red,Diesel,Manual,Dealership,52825.16,11,581076.74,Individual
+BMW100748,2021,12,i4,Asia,Grey,Diesel,Automatic,Dealership,67797.94,3,203393.82,Individual
+BMW100749,2021,1,1 Series,Asia,White,Diesel,Automatic,Dealership,40951.09,9,368559.83,Individual
+BMW100750,2020,4,i4,Asia,White,Hybrid,Manual,Dealership,57978.53,2,115957.06,Business
+BMW100751,2025,11,iX,Europe,Blue,Petrol,Automatic,Dealership,79222.26,10,792222.65,Individual
+BMW100752,2020,8,1 Series,Asia,Black,Petrol,Automatic,Dealership,38144.11,4,152576.43,Individual
+BMW100753,2019,1,X5,Europe,Silver,Hybrid,Manual,Dealership,76920.29,14,1076884.09,Individual
+BMW100754,2025,6,iX,South America,Silver,Electric,Automatic,Wholesale,82542.26,1,82542.26,Business
+BMW100755,2022,12,i4,Europe,Silver,Diesel,Manual,Dealership,58022.18,10,580221.81,Individual
+BMW100756,2022,5,iX,Europe,Grey,Petrol,Automatic,Wholesale,88157.23,3,264471.69,Business
+BMW100757,2024,7,X3,Middle East,Blue,Hybrid,Automatic,Dealership,49558.85,11,545147.36,Individual
+BMW100758,2021,7,1 Series,Europe,Silver,Electric,Automatic,Dealership,32294.66,8,258357.3,Individual
+BMW100759,2019,8,X7,North America,Red,Diesel,Automatic,Dealership,132802.91,15,1992043.59,Business
+BMW100760,2024,3,X3,Asia,Black,Petrol,Manual,Dealership,53549.7,10,535496.95,Business
+BMW100761,2020,11,X3,Europe,Blue,Petrol,Automatic,Dealership,64606.81,6,387640.84,Business
+BMW100762,2022,12,X1,Europe,Red,Diesel,Automatic,Wholesale,49111.02,2,98222.05,Individual
+BMW100763,2025,2,X3,North America,Red,Electric,Automatic,Online,50752.43,9,456771.84,Individual
+BMW100764,2025,10,3 Series,Europe,Red,Hybrid,Automatic,Dealership,52534.91,7,367744.37,Business
+BMW100765,2021,10,X5,Europe,White,Petrol,Automatic,Dealership,82698.83,1,82698.83,Individual
+BMW100766,2024,9,1 Series,Europe,Blue,Diesel,Manual,Dealership,39138.99,9,352250.9,Individual
+BMW100767,2023,5,X5,North America,Black,Hybrid,Automatic,Dealership,70890.87,4,283563.48,Business
+BMW100768,2022,6,X7,Europe,Red,Diesel,Manual,Dealership,107705.32,4,430821.29,Individual
+BMW100769,2019,11,X1,Europe,Grey,Hybrid,Automatic,Dealership,37925.65,1,37925.65,Individual
+BMW100770,2021,2,X1,Asia,White,Diesel,Automatic,Dealership,44572.09,6,267432.55,Fleet
+BMW100771,2023,10,5 Series,Asia,Black,Petrol,Automatic,Dealership,76438.53,4,305754.1,Individual
+BMW100772,2025,12,iX,Europe,Silver,Diesel,Automatic,Online,97343.58,2,194687.17,Individual
+BMW100773,2019,9,X5,Europe,Silver,Diesel,Automatic,Dealership,85271.82,7,596902.74,Individual
+BMW100774,2024,5,7 Series,Middle East,Red,Electric,Automatic,Dealership,123414.43,4,493657.72,Individual
+BMW100775,2024,7,3 Series,North America,Red,Diesel,Automatic,Wholesale,52003.37,3,156010.1,Business
+BMW100776,2025,1,3 Series,North America,Silver,Diesel,Manual,Wholesale,42818.61,8,342548.92,Business
+BMW100777,2021,12,X1,North America,Silver,Diesel,Manual,Dealership,47884.27,1,47884.27,Individual
+BMW100778,2019,5,iX,Europe,Silver,Diesel,Manual,Dealership,89046.31,15,1335694.71,Individual
+BMW100779,2020,1,X5,Asia,Red,Petrol,Manual,Online,68742.11,8,549936.87,Individual
+BMW100780,2024,10,3 Series,Middle East,Blue,Hybrid,Automatic,Dealership,49544.17,15,743162.58,Individual
+BMW100781,2025,8,i4,Middle East,Silver,Diesel,Automatic,Dealership,71988.48,14,1007838.71,Business
+BMW100782,2023,8,7 Series,Europe,Silver,Diesel,Manual,Dealership,100505.92,15,1507588.75,Individual
+BMW100783,2019,1,i4,Europe,Black,Diesel,Manual,Dealership,63702.15,9,573319.31,Individual
+BMW100784,2019,10,5 Series,Europe,Silver,Petrol,Manual,Wholesale,60588.65,7,424120.55,Business
+BMW100785,2022,8,X3,Europe,Blue,Diesel,Automatic,Online,49351.93,11,542871.22,Business
+BMW100786,2023,10,i4,North America,Black,Diesel,Automatic,Wholesale,56058.14,2,112116.27,Individual
+BMW100787,2019,10,5 Series,Asia,White,Diesel,Manual,Online,71376.71,13,927897.26,Individual
+BMW100788,2023,3,X5,Europe,Black,Hybrid,Manual,Dealership,88859.34,5,444296.71,Individual
+BMW100789,2022,3,iX,Middle East,Red,Hybrid,Automatic,Online,83069.07,1,83069.07,Individual
+BMW100790,2019,12,3 Series,Europe,Silver,Electric,Manual,Online,46391.79,4,185567.15,Individual
+BMW100791,2019,7,3 Series,Europe,Black,Petrol,Automatic,Dealership,45048.42,4,180193.7,Business
+BMW100792,2022,6,X5,Middle East,Grey,Petrol,Manual,Dealership,69268.43,1,69268.43,Fleet
+BMW100793,2024,4,5 Series,Asia,Grey,Hybrid,Automatic,Dealership,67991.91,11,747911.03,Individual
+BMW100794,2024,8,1 Series,North America,Grey,Diesel,Manual,Dealership,39239.16,2,78478.32,Individual
+BMW100795,2022,10,X1,Asia,Grey,Diesel,Automatic,Dealership,45123.26,13,586602.33,Individual
+BMW100796,2021,1,X5,Europe,Red,Diesel,Automatic,Dealership,77720.45,7,544043.17,Individual
+BMW100797,2025,7,5 Series,Europe,Grey,Hybrid,Automatic,Dealership,68022.7,11,748249.7,Individual
+BMW100798,2022,12,5 Series,North America,Grey,Petrol,Automatic,Dealership,59034.94,6,354209.62,Individual
+BMW100799,2021,4,X7,North America,Grey,Diesel,Automatic,Dealership,106523.48,2,213046.96,Fleet
+BMW100800,2022,4,X1,Asia,Blue,Petrol,Manual,Dealership,48700.61,3,146101.84,Business
+BMW100801,2019,11,X7,Europe,Red,Diesel,Automatic,Dealership,127472.02,10,1274720.17,Fleet
+BMW100802,2021,1,X1,Asia,Blue,Hybrid,Manual,Wholesale,48586.51,11,534451.64,Individual
+BMW100803,2022,5,iX,Asia,Silver,Diesel,Automatic,Dealership,103950.37,5,519751.84,Individual
+BMW100804,2025,6,X3,Europe,Grey,Petrol,Automatic,Dealership,59114.98,6,354689.87,Individual
+BMW100805,2024,10,3 Series,Europe,Silver,Electric,Automatic,Dealership,55606.64,15,834099.55,Individual
+BMW100806,2024,2,i4,North America,Silver,Hybrid,Automatic,Online,62310.7,13,810039.05,Individual
+BMW100807,2022,6,X1,Asia,Silver,Diesel,Automatic,Online,37005.56,7,259038.95,Business
+BMW100808,2019,2,3 Series,Asia,Grey,Electric,Manual,Dealership,43141.02,4,172564.1,Business
+BMW100809,2021,10,3 Series,Asia,Grey,Diesel,Manual,Dealership,43816.62,5,219083.09,Individual
+BMW100810,2025,8,X5,North America,Grey,Hybrid,Automatic,Online,70871.27,9,637841.44,Individual
+BMW100811,2019,6,1 Series,Europe,Blue,Petrol,Manual,Wholesale,35478.39,9,319305.47,Individual
+BMW100812,2025,5,5 Series,North America,Silver,Petrol,Automatic,Dealership,70874.78,3,212624.34,Individual
+BMW100813,2023,2,3 Series,Europe,Red,Petrol,Automatic,Dealership,53625.34,1,53625.34,Individual
+BMW100814,2020,12,X1,Asia,Silver,Petrol,Automatic,Dealership,44396.69,8,355173.5,Individual
+BMW100815,2024,8,X1,Europe,Silver,Diesel,Automatic,Dealership,38805.1,12,465661.15,Individual
+BMW100816,2024,4,X1,Europe,Silver,Petrol,Automatic,Online,46383.56,3,139150.68,Fleet
+BMW100817,2019,5,5 Series,North America,Blue,Diesel,Automatic,Wholesale,64118.64,7,448830.46,Individual
+BMW100818,2019,9,1 Series,North America,Black,Petrol,Automatic,Wholesale,31820.33,3,95460.98,Individual
+BMW100819,2023,9,X3,Asia,Blue,Petrol,Automatic,Online,53029.71,4,212118.85,Individual
+BMW100820,2025,6,7 Series,North America,Silver,Electric,Automatic,Dealership,102813.92,10,1028139.17,Business
+BMW100821,2019,4,X3,Middle East,Silver,Diesel,Automatic,Wholesale,52925.05,5,264625.26,Individual
+BMW100822,2023,8,3 Series,Asia,Grey,Electric,Automatic,Dealership,53930.93,4,215723.72,Individual
+BMW100823,2019,8,1 Series,Middle East,Silver,Diesel,Manual,Dealership,39887.21,15,598308.08,Individual
+BMW100824,2023,8,5 Series,Asia,Black,Petrol,Automatic,Online,70763.26,3,212289.79,Individual
+BMW100825,2023,1,X1,Asia,Grey,Diesel,Automatic,Dealership,38711.46,3,116134.39,Individual
+BMW100826,2019,6,7 Series,Asia,Silver,Diesel,Automatic,Online,117846.77,14,1649854.75,Individual
+BMW100827,2023,8,X7,North America,Grey,Petrol,Automatic,Wholesale,124562.57,9,1121063.14,Individual
+BMW100828,2025,12,7 Series,North America,Silver,Electric,Automatic,Online,98537.39,1,98537.39,Business
+BMW100829,2025,7,X3,Asia,Blue,Diesel,Manual,Online,59093.55,7,413654.85,Individual
+BMW100830,2019,5,X3,Europe,Grey,Hybrid,Automatic,Dealership,56377.94,9,507401.48,Individual
+BMW100831,2020,7,1 Series,Europe,Grey,Diesel,Automatic,Dealership,36424.98,4,145699.92,Individual
+BMW100832,2020,3,X1,Middle East,Silver,Diesel,Automatic,Online,38372.75,9,345354.77,Individual
+BMW100833,2022,2,5 Series,Europe,White,Petrol,Automatic,Dealership,67306.93,10,673069.33,Individual
+BMW100834,2020,9,X1,North America,White,Electric,Automatic,Wholesale,38219.14,4,152876.56,Individual
+BMW100835,2024,12,3 Series,Asia,Blue,Diesel,Automatic,Dealership,44605.25,13,579868.23,Individual
+BMW100836,2024,11,X5,Europe,White,Petrol,Manual,Dealership,71741.58,7,502191.09,Fleet
+BMW100837,2024,8,iX,Middle East,Blue,Petrol,Automatic,Dealership,104960.92,15,1574413.85,Individual
+BMW100838,2020,1,1 Series,Europe,Blue,Diesel,Automatic,Online,34756.54,2,69513.08,Fleet
+BMW100839,2019,12,X3,Middle East,White,Electric,Automatic,Online,54260.87,5,271304.36,Fleet
+BMW100840,2025,6,X5,Asia,Blue,Electric,Manual,Wholesale,76176.69,11,837943.55,Individual
+BMW100841,2021,4,5 Series,Europe,Grey,Hybrid,Automatic,Dealership,74715.88,14,1046022.37,Individual
+BMW100842,2023,11,X5,Europe,Silver,Electric,Automatic,Dealership,81813.4,4,327253.61,Individual
+BMW100843,2025,9,X3,Europe,White,Hybrid,Manual,Dealership,63566.14,15,953492.07,Fleet
+BMW100844,2019,9,i4,North America,Red,Petrol,Automatic,Dealership,60138.6,3,180415.81,Individual
+BMW100845,2019,4,iX,Europe,Blue,Diesel,Manual,Dealership,82300.54,7,576103.75,Individual
+BMW100846,2019,12,1 Series,South America,Silver,Petrol,Automatic,Dealership,37687.16,5,188435.8,Individual
+BMW100847,2020,6,X1,Europe,Black,Petrol,Automatic,Dealership,41313.77,7,289196.36,Business
+BMW100848,2019,7,X3,Asia,White,Diesel,Manual,Dealership,61631.46,14,862840.48,Individual
+BMW100849,2024,10,3 Series,Europe,Blue,Petrol,Automatic,Online,54903.7,11,603940.67,Individual
+BMW100850,2023,8,5 Series,South America,Blue,Electric,Automatic,Online,66415.18,12,796982.2,Individual
+BMW100851,2025,3,iX,Europe,Blue,Electric,Automatic,Dealership,105426.69,4,421706.77,Individual
+BMW100852,2024,4,1 Series,North America,Black,Petrol,Automatic,Dealership,37652.54,15,564788.11,Business
+BMW100853,2025,5,X1,North America,Blue,Hybrid,Manual,Online,40373.6,7,282615.18,Business
+BMW100854,2020,12,X7,Europe,Silver,Diesel,Automatic,Online,118069.66,10,1180696.55,Individual
+BMW100855,2021,9,5 Series,Asia,Silver,Petrol,Manual,Online,57927.55,11,637203.06,Individual
+BMW100856,2024,5,X1,Europe,White,Petrol,Automatic,Dealership,47090.41,10,470904.15,Business
+BMW100857,2020,9,iX,North America,Blue,Petrol,Automatic,Dealership,81938.75,10,819387.46,Individual
+BMW100858,2019,9,X1,North America,Grey,Petrol,Automatic,Wholesale,40850.23,8,326801.85,Individual
+BMW100859,2023,5,3 Series,Asia,Grey,Petrol,Automatic,Dealership,50380.56,10,503805.58,Individual
+BMW100860,2024,5,1 Series,Europe,Silver,Petrol,Manual,Dealership,32144.13,14,450017.84,Individual
+BMW100861,2025,11,iX,Europe,Blue,Petrol,Automatic,Wholesale,81341.56,6,488049.34,Fleet
+BMW100862,2025,7,5 Series,Europe,Silver,Electric,Automatic,Dealership,70774.27,8,566194.15,Business
+BMW100863,2019,2,X1,Europe,Red,Petrol,Automatic,Online,37864.39,3,113593.17,Individual
+BMW100864,2024,9,3 Series,Europe,White,Petrol,Automatic,Wholesale,49109.99,6,294659.96,Business
+BMW100865,2024,8,X1,Middle East,Silver,Diesel,Manual,Dealership,41227.56,12,494730.78,Individual
+BMW100866,2023,7,iX,North America,White,Petrol,Automatic,Online,85358.14,10,853581.44,Business
+BMW100867,2024,9,X1,Asia,Blue,Diesel,Automatic,Dealership,39338.61,4,157354.46,Individual
+BMW100868,2024,11,iX,North America,Grey,Petrol,Automatic,Wholesale,99812.1,9,898308.94,Individual
+BMW100869,2022,4,5 Series,Europe,Grey,Diesel,Automatic,Wholesale,75755.07,13,984815.95,Individual
+BMW100870,2019,6,X1,North America,Grey,Diesel,Manual,Wholesale,38726.26,2,77452.53,Individual
+BMW100871,2022,3,i4,Europe,White,Hybrid,Automatic,Dealership,72410.07,1,72410.07,Individual
+BMW100872,2020,8,X1,North America,Black,Diesel,Automatic,Online,44454.01,6,266724.05,Individual
+BMW100873,2019,5,5 Series,North America,Red,Diesel,Automatic,Wholesale,69712.38,10,697123.78,Business
+BMW100874,2019,5,i4,North America,Red,Petrol,Automatic,Online,67764.63,5,338823.15,Business
+BMW100875,2023,9,7 Series,South America,Red,Petrol,Manual,Dealership,114579.75,13,1489536.69,Individual
+BMW100876,2022,5,X3,Europe,Grey,Diesel,Automatic,Dealership,61926.88,13,805049.48,Individual
+BMW100877,2022,6,iX,North America,Red,Petrol,Automatic,Wholesale,92253.65,8,738029.23,Individual
+BMW100878,2024,6,3 Series,Europe,Blue,Petrol,Automatic,Dealership,49920.36,6,299522.18,Individual
+BMW100879,2022,4,5 Series,North America,Black,Hybrid,Manual,Dealership,63514.63,1,63514.63,Individual
+BMW100880,2023,2,1 Series,Asia,White,Petrol,Manual,Wholesale,32816.78,13,426618.17,Business
+BMW100881,2019,10,7 Series,Europe,White,Petrol,Automatic,Wholesale,113336.17,14,1586706.32,Fleet
+BMW100882,2024,2,3 Series,North America,Blue,Diesel,Automatic,Wholesale,42723.98,7,299067.88,Individual
+BMW100883,2022,4,X5,North America,Red,Diesel,Automatic,Dealership,75089.86,8,600718.88,Business
+BMW100884,2020,9,3 Series,Europe,White,Hybrid,Automatic,Dealership,43596.91,12,523162.92,Individual
+BMW100885,2024,2,X5,Middle East,Grey,Electric,Automatic,Dealership,73103.02,11,804133.17,Individual
+BMW100886,2024,8,5 Series,North America,White,Electric,Manual,Dealership,69655.25,3,208965.76,Individual
+BMW100887,2019,9,5 Series,Asia,Grey,Diesel,Manual,Wholesale,69455.29,11,764008.24,Individual
+BMW100888,2020,8,5 Series,North America,Grey,Petrol,Automatic,Dealership,65410.57,14,915747.99,Individual
+BMW100889,2019,4,X5,Middle East,Black,Diesel,Automatic,Dealership,70750.02,12,849000.29,Fleet
+BMW100890,2020,1,X1,Europe,Blue,Diesel,Automatic,Dealership,42420.51,8,339364.09,Individual
+BMW100891,2019,11,7 Series,North America,Black,Diesel,Automatic,Dealership,103511.46,8,828091.71,Individual
+BMW100892,2023,4,i4,Asia,Red,Petrol,Automatic,Wholesale,67960.54,4,271842.16,Individual
+BMW100893,2022,10,X3,North America,Silver,Petrol,Automatic,Online,57953.94,10,579539.39,Fleet
+BMW100894,2025,3,3 Series,North America,Red,Petrol,Manual,Dealership,49318.55,4,197274.19,Individual
+BMW100895,2024,2,i4,South America,Red,Petrol,Automatic,Dealership,63617.87,6,381707.2,Fleet
+BMW100896,2023,10,5 Series,North America,White,Petrol,Manual,Dealership,76042.79,4,304171.16,Business
+BMW100897,2022,12,1 Series,Asia,Silver,Electric,Automatic,Dealership,39847.98,6,239087.87,Individual
+BMW100898,2019,11,X1,Asia,Black,Petrol,Automatic,Wholesale,43221.94,6,259331.65,Business
+BMW100899,2019,10,3 Series,Asia,Red,Diesel,Automatic,Online,49140.81,2,98281.61,Business
+BMW100900,2023,3,3 Series,Middle East,Silver,Electric,Manual,Dealership,42621.3,11,468834.29,Business
+BMW100901,2019,11,X5,North America,Silver,Petrol,Automatic,Online,90694.72,7,634863.02,Individual
+BMW100902,2019,9,3 Series,Europe,Red,Diesel,Automatic,Dealership,46836.11,15,702541.58,Individual
+BMW100903,2020,3,X7,Europe,Red,Hybrid,Automatic,Dealership,110029.9,3,330089.69,Individual
+BMW100904,2025,2,iX,Asia,Red,Petrol,Automatic,Dealership,106184.04,11,1168024.45,Individual
+BMW100905,2022,11,X3,Asia,Black,Diesel,Automatic,Dealership,60258.38,3,180775.14,Business
+BMW100906,2023,4,X5,North America,Black,Hybrid,Automatic,Dealership,69748.31,9,627734.81,Business
+BMW100907,2021,10,X5,Europe,Red,Hybrid,Automatic,Online,70088.12,8,560704.96,Individual
+BMW100908,2020,2,iX,Europe,White,Hybrid,Manual,Wholesale,79888.54,7,559219.8,Individual
+BMW100909,2021,4,5 Series,North America,Blue,Electric,Automatic,Dealership,68892.57,10,688925.69,Individual
+BMW100910,2019,4,3 Series,Asia,Black,Petrol,Automatic,Online,43270.53,13,562516.87,Business
+BMW100911,2024,4,X1,Europe,Grey,Hybrid,Automatic,Dealership,48720.69,5,243603.47,Individual
+BMW100912,2020,9,X3,Asia,Silver,Diesel,Automatic,Dealership,63858.96,13,830166.45,Business
+BMW100913,2021,11,3 Series,Asia,Red,Hybrid,Manual,Dealership,50103.18,3,150309.54,Individual
+BMW100914,2025,11,X3,Middle East,Grey,Hybrid,Automatic,Dealership,58574.54,5,292872.71,Individual
+BMW100915,2023,9,1 Series,Europe,Grey,Hybrid,Automatic,Dealership,34832.46,5,174162.3,Fleet
+BMW100916,2022,3,i4,Middle East,Grey,Electric,Manual,Wholesale,55749.89,15,836248.34,Individual
+BMW100917,2022,12,5 Series,Asia,Blue,Petrol,Automatic,Wholesale,71580.48,2,143160.96,Individual
+BMW100918,2024,7,1 Series,Asia,Grey,Diesel,Automatic,Dealership,32779.29,6,196675.73,Individual
+BMW100919,2020,7,3 Series,Europe,Red,Petrol,Automatic,Online,43472.03,7,304304.21,Individual
+BMW100920,2023,9,5 Series,North America,White,Diesel,Automatic,Dealership,63268.85,13,822495.06,Fleet
+BMW100921,2025,10,5 Series,Asia,Blue,Hybrid,Automatic,Online,57443.08,8,459544.64,Fleet
+BMW100922,2023,12,1 Series,Europe,Grey,Hybrid,Automatic,Dealership,36367.58,15,545513.77,Business
+BMW100923,2022,7,5 Series,North America,Grey,Diesel,Automatic,Dealership,70999.78,12,851997.33,Individual
+BMW100924,2020,8,3 Series,North America,Black,Diesel,Automatic,Online,53779.42,11,591573.67,Individual
+BMW100925,2020,9,7 Series,North America,White,Petrol,Manual,Dealership,111435.68,12,1337228.16,Business
+BMW100926,2025,4,7 Series,Europe,Grey,Petrol,Automatic,Dealership,119076.54,3,357229.61,Individual
+BMW100927,2022,4,5 Series,North America,Silver,Petrol,Automatic,Dealership,65126.79,7,455887.55,Fleet
+BMW100928,2021,8,5 Series,Europe,Silver,Electric,Automatic,Dealership,73751.06,9,663759.5,Individual
+BMW100929,2021,1,3 Series,Middle East,Red,Petrol,Automatic,Dealership,49533.22,4,198132.86,Individual
+BMW100930,2023,4,1 Series,South America,Silver,Electric,Automatic,Dealership,34088.79,2,68177.58,Individual
+BMW100931,2022,9,3 Series,Europe,Grey,Petrol,Automatic,Online,55835.7,3,167507.09,Business
+BMW100932,2023,12,X5,Europe,White,Hybrid,Manual,Dealership,75074.32,12,900891.82,Individual
+BMW100933,2020,7,iX,Europe,Blue,Diesel,Manual,Dealership,79907.44,10,799074.4,Individual
+BMW100934,2023,5,i4,North America,Silver,Hybrid,Manual,Dealership,59073.74,5,295368.69,Business
+BMW100935,2022,6,X1,Middle East,Blue,Diesel,Automatic,Online,41580.26,12,498963.16,Individual
+BMW100936,2025,9,X3,North America,Silver,Hybrid,Automatic,Online,54197.27,11,596169.97,Individual
+BMW100937,2020,7,5 Series,Europe,Black,Electric,Automatic,Dealership,67431.02,13,876603.21,Business
+BMW100938,2020,1,X5,Europe,Black,Diesel,Automatic,Dealership,89305.17,14,1250272.37,Business
+BMW100939,2022,7,X5,Europe,White,Petrol,Automatic,Dealership,75480.71,14,1056730.0,Individual
+BMW100940,2022,5,X7,Middle East,White,Petrol,Automatic,Dealership,119166.59,3,357499.76,Fleet
+BMW100941,2023,9,i4,Asia,Grey,Hybrid,Automatic,Dealership,60886.58,12,730639.01,Fleet
+BMW100942,2021,11,X1,North America,Grey,Diesel,Automatic,Dealership,47314.34,6,283886.04,Individual
+BMW100943,2025,12,X5,Europe,Grey,Diesel,Automatic,Online,72327.88,7,506295.13,Individual
+BMW100944,2022,8,X7,Middle East,White,Diesel,Automatic,Dealership,104771.1,10,1047711.04,Business
+BMW100945,2019,5,5 Series,North America,Grey,Diesel,Automatic,Online,67008.41,10,670084.07,Individual
+BMW100946,2019,6,i4,Asia,Black,Hybrid,Automatic,Dealership,67057.11,7,469399.76,Business
+BMW100947,2025,3,3 Series,Middle East,Blue,Hybrid,Automatic,Dealership,53695.56,15,805433.44,Individual
+BMW100948,2019,12,iX,North America,Black,Hybrid,Automatic,Online,95119.87,3,285359.61,Individual
+BMW100949,2025,11,X5,Middle East,Black,Hybrid,Manual,Online,86748.08,2,173496.17,Individual
+BMW100950,2020,11,3 Series,Europe,Black,Electric,Automatic,Dealership,47895.02,1,47895.02,Individual
+BMW100951,2019,4,X3,Asia,Black,Diesel,Automatic,Online,48942.32,13,636250.12,Fleet
+BMW100952,2021,4,1 Series,Europe,Blue,Electric,Automatic,Dealership,32933.87,7,230537.11,Individual
+BMW100953,2023,11,X5,North America,Grey,Petrol,Automatic,Dealership,69546.11,7,486822.76,Fleet
+BMW100954,2021,7,X7,Europe,Grey,Diesel,Manual,Online,112548.56,10,1125485.56,Individual
+BMW100955,2024,9,X3,Europe,Blue,Hybrid,Automatic,Online,56575.61,7,396029.25,Business
+BMW100956,2023,6,i4,Europe,White,Diesel,Manual,Dealership,61187.51,9,550687.55,Fleet
+BMW100957,2021,6,3 Series,North America,Black,Petrol,Manual,Wholesale,50312.63,1,50312.63,Individual
+BMW100958,2023,8,5 Series,North America,Silver,Diesel,Automatic,Online,66571.88,3,199715.64,Individual
+BMW100959,2025,10,X1,North America,Red,Petrol,Automatic,Dealership,45502.08,14,637029.11,Business
+BMW100960,2021,5,1 Series,Europe,White,Electric,Automatic,Dealership,38883.19,7,272182.34,Business
+BMW100961,2020,10,X1,South America,White,Petrol,Automatic,Dealership,40967.61,3,122902.82,Individual
+BMW100962,2021,3,5 Series,Middle East,White,Petrol,Automatic,Dealership,63951.18,6,383707.09,Individual
+BMW100963,2024,5,7 Series,Europe,White,Diesel,Automatic,Online,110832.16,6,664992.94,Business
+BMW100964,2020,11,X1,North America,White,Diesel,Automatic,Dealership,44475.05,5,222375.25,Individual
+BMW100965,2025,12,i4,Asia,Blue,Petrol,Automatic,Online,60413.42,5,302067.09,Individual
+BMW100966,2023,12,5 Series,Asia,Silver,Diesel,Automatic,Dealership,63641.2,11,700053.19,Individual
+BMW100967,2023,4,i4,North America,Silver,Diesel,Automatic,Online,67469.24,2,134938.47,Individual
+BMW100968,2021,11,X1,Asia,Red,Petrol,Manual,Online,45117.38,5,225586.88,Business
+BMW100969,2025,12,5 Series,Europe,Blue,Diesel,Automatic,Online,59833.49,8,478667.93,Individual
+BMW100970,2019,12,X1,North America,Blue,Diesel,Automatic,Online,42517.13,9,382654.15,Fleet
+BMW100971,2021,1,X1,Asia,Blue,Hybrid,Manual,Wholesale,48208.1,14,674913.35,Individual
+BMW100972,2021,9,5 Series,Asia,Black,Petrol,Automatic,Dealership,57907.96,14,810711.45,Individual
+BMW100973,2022,12,X1,Asia,Blue,Petrol,Automatic,Online,47735.07,5,238675.33,Individual
+BMW100974,2022,10,3 Series,Europe,White,Electric,Automatic,Wholesale,44589.77,9,401307.89,Individual
+BMW100975,2020,3,5 Series,Europe,Blue,Diesel,Automatic,Dealership,67091.35,1,67091.35,Business
+BMW100976,2020,10,X3,Europe,Black,Petrol,Manual,Dealership,55401.55,10,554015.51,Business
+BMW100977,2019,2,X1,Europe,Silver,Hybrid,Automatic,Wholesale,37087.63,3,111262.89,Business
+BMW100978,2023,6,X7,Europe,Red,Petrol,Automatic,Dealership,132781.19,2,265562.39,Individual
+BMW100979,2021,8,5 Series,North America,Red,Hybrid,Automatic,Dealership,66071.04,11,726781.46,Individual
+BMW100980,2022,6,iX,North America,Black,Hybrid,Automatic,Dealership,104965.24,3,314895.73,Individual
+BMW100981,2023,9,X5,Asia,Black,Electric,Automatic,Dealership,75349.81,8,602798.46,Business
+BMW100982,2023,3,iX,North America,Red,Electric,Automatic,Dealership,102589.45,2,205178.89,Individual
+BMW100983,2022,8,X7,Europe,Red,Petrol,Automatic,Dealership,133022.44,12,1596269.28,Individual
+BMW100984,2023,8,3 Series,Asia,Grey,Hybrid,Automatic,Wholesale,50258.39,12,603100.64,Individual
+BMW100985,2023,8,X1,Europe,White,Petrol,Automatic,Dealership,39513.74,9,355623.66,Individual
+BMW100986,2023,4,3 Series,Middle East,Grey,Diesel,Manual,Dealership,52107.56,13,677398.32,Business
+BMW100987,2023,4,X7,Europe,Grey,Diesel,Automatic,Wholesale,120139.74,7,840978.2,Individual
+BMW100988,2021,4,X3,North America,Red,Petrol,Automatic,Online,63984.74,3,191954.22,Fleet
+BMW100989,2020,6,5 Series,Middle East,Grey,Petrol,Automatic,Dealership,65765.81,3,197297.42,Individual
+BMW100990,2024,8,i4,North America,Black,Petrol,Manual,Dealership,59554.35,4,238217.42,Individual
+BMW100991,2021,5,3 Series,Asia,Silver,Petrol,Automatic,Online,44231.33,4,176925.33,Individual
+BMW100992,2022,5,X3,Asia,Silver,Petrol,Manual,Online,59927.45,5,299637.27,Business
+BMW100993,2020,4,X5,Europe,White,Electric,Automatic,Dealership,91434.17,4,365736.66,Individual
+BMW100994,2022,3,1 Series,Asia,Black,Diesel,Manual,Dealership,31986.11,9,287875.01,Individual
+BMW100995,2022,8,X3,Middle East,Black,Hybrid,Manual,Online,60617.35,3,181852.05,Business
+BMW100996,2023,10,X7,South America,Red,Hybrid,Automatic,Online,133179.1,10,1331790.98,Individual
+BMW100997,2022,4,1 Series,North America,Blue,Hybrid,Automatic,Dealership,32487.64,6,194925.84,Individual
+BMW100998,2021,11,X1,North America,Grey,Diesel,Automatic,Wholesale,38348.14,11,421829.57,Individual
+BMW100999,2025,7,5 Series,Asia,Red,Electric,Automatic,Online,70693.16,8,565545.31,Individual
+BMW101000,2022,3,X3,North America,Black,Hybrid,Automatic,Online,59091.4,14,827279.54,Business
+BMW101001,2024,5,3 Series,Europe,White,Hybrid,Automatic,Online,43231.11,7,302617.8,Business
+BMW101002,2024,1,iX,Europe,Silver,Electric,Manual,Online,101729.41,5,508647.07,Business
+BMW101003,2022,1,i4,Europe,Grey,Diesel,Automatic,Dealership,64295.68,9,578661.15,Business
+BMW101004,2025,5,3 Series,North America,Black,Diesel,Automatic,Dealership,55303.64,10,553036.42,Business
+BMW101005,2019,6,5 Series,Europe,Silver,Electric,Automatic,Online,74320.82,7,520245.76,Individual
+BMW101006,2025,10,X3,Europe,Black,Diesel,Automatic,Dealership,61806.38,9,556257.4,Individual
+BMW101007,2024,2,X5,Europe,Silver,Hybrid,Automatic,Dealership,80712.03,8,645696.27,Individual
+BMW101008,2022,11,X1,Middle East,Silver,Petrol,Automatic,Dealership,40131.55,5,200657.77,Fleet
+BMW101009,2024,3,3 Series,Europe,Silver,Petrol,Automatic,Online,49526.05,5,247630.24,Fleet
+BMW101010,2022,2,3 Series,Europe,Blue,Diesel,Manual,Online,43691.68,14,611683.57,Business
+BMW101011,2020,9,iX,North America,White,Petrol,Automatic,Dealership,96988.85,11,1066877.31,Individual
+BMW101012,2024,10,X1,Europe,Red,Electric,Manual,Dealership,38648.11,2,77296.23,Individual
+BMW101013,2020,8,i4,South America,Grey,Petrol,Automatic,Dealership,64067.82,15,961017.26,Business
+BMW101014,2021,2,X1,Middle East,Grey,Hybrid,Automatic,Wholesale,37645.21,11,414097.34,Individual
+BMW101015,2022,2,i4,North America,Black,Petrol,Automatic,Wholesale,60130.93,1,60130.93,Individual
+BMW101016,2024,5,3 Series,North America,Grey,Electric,Automatic,Dealership,45581.96,11,501401.54,Individual
+BMW101017,2021,6,3 Series,North America,Grey,Diesel,Manual,Dealership,51168.45,9,460516.09,Individual
+BMW101018,2022,12,i4,Europe,White,Petrol,Automatic,Online,69194.23,14,968719.26,Business
+BMW101019,2019,4,iX,Europe,Silver,Petrol,Automatic,Dealership,80747.18,8,645977.44,Fleet
+BMW101020,2019,3,5 Series,Europe,Black,Diesel,Manual,Wholesale,73780.53,8,590244.25,Business
+BMW101021,2019,12,5 Series,Europe,Silver,Electric,Automatic,Dealership,73984.97,5,369924.85,Individual
+BMW101022,2019,2,X1,North America,Red,Electric,Manual,Dealership,41272.59,5,206362.95,Individual
+BMW101023,2025,1,X1,Europe,Grey,Petrol,Automatic,Dealership,45263.45,10,452634.51,Fleet
+BMW101024,2024,6,3 Series,Europe,Black,Diesel,Manual,Dealership,48037.63,13,624489.16,Individual
+BMW101025,2024,5,i4,North America,Grey,Petrol,Automatic,Dealership,57427.95,14,803991.31,Individual
+BMW101026,2019,8,5 Series,North America,Grey,Diesel,Automatic,Online,67508.92,12,810107.01,Business
+BMW101027,2019,11,X5,Europe,Grey,Diesel,Automatic,Dealership,70660.82,10,706608.16,Individual
+BMW101028,2020,12,1 Series,Europe,White,Petrol,Automatic,Dealership,41167.5,8,329339.99,Individual
+BMW101029,2022,4,1 Series,Europe,Grey,Diesel,Manual,Online,41662.33,6,249973.98,Business
+BMW101030,2021,12,X3,Europe,White,Electric,Automatic,Online,61956.62,12,743479.4,Individual
+BMW101031,2022,8,5 Series,Asia,Grey,Petrol,Automatic,Dealership,68169.3,5,340846.49,Individual
+BMW101032,2020,1,X3,Middle East,Grey,Petrol,Automatic,Dealership,57600.38,5,288001.88,Individual
+BMW101033,2024,12,3 Series,North America,Grey,Petrol,Manual,Dealership,56418.35,14,789856.85,Fleet
+BMW101034,2021,2,iX,North America,Silver,Petrol,Automatic,Dealership,85893.35,9,773040.11,Individual
+BMW101035,2019,8,X5,Asia,Red,Petrol,Manual,Online,70417.19,6,422503.15,Individual
+BMW101036,2024,10,i4,Asia,Silver,Diesel,Automatic,Dealership,65012.1,13,845157.32,Individual
+BMW101037,2025,3,3 Series,Europe,Silver,Petrol,Manual,Dealership,46974.51,15,704617.69,Fleet
+BMW101038,2019,4,5 Series,Europe,Red,Hybrid,Automatic,Online,63485.61,5,317428.03,Business
+BMW101039,2022,6,7 Series,North America,White,Electric,Automatic,Dealership,92623.19,8,740985.51,Individual
+BMW101040,2024,11,X3,North America,White,Electric,Automatic,Dealership,58237.95,8,465903.6,Individual
+BMW101041,2023,3,5 Series,Europe,Grey,Hybrid,Automatic,Dealership,62348.66,11,685835.23,Business
+BMW101042,2024,8,1 Series,Europe,Blue,Petrol,Manual,Wholesale,33708.87,15,505633.08,Business
+BMW101043,2021,6,7 Series,Europe,Silver,Petrol,Manual,Online,93673.61,9,843062.45,Business
+BMW101044,2021,2,5 Series,Europe,Black,Petrol,Automatic,Dealership,64305.05,12,771660.61,Fleet
+BMW101045,2023,9,7 Series,North America,Black,Electric,Manual,Online,120087.52,9,1080787.68,Individual
+BMW101046,2020,10,3 Series,Asia,Silver,Electric,Automatic,Dealership,47088.06,14,659232.83,Individual
+BMW101047,2020,7,5 Series,North America,Silver,Diesel,Automatic,Dealership,70441.95,7,493093.63,Individual
+BMW101048,2023,3,X3,Europe,White,Petrol,Automatic,Dealership,60883.02,6,365298.15,Business
+BMW101049,2023,2,7 Series,Europe,White,Diesel,Automatic,Dealership,102735.18,7,719146.23,Individual
+BMW101050,2019,6,5 Series,Asia,Grey,Petrol,Automatic,Dealership,73221.99,15,1098329.91,Individual
+BMW101051,2022,7,X3,North America,Blue,Electric,Automatic,Wholesale,59816.01,10,598160.14,Business
+BMW101052,2021,7,X5,Europe,White,Petrol,Automatic,Dealership,81726.27,3,245178.8,Individual
+BMW101053,2022,3,7 Series,Europe,Grey,Petrol,Automatic,Online,92431.26,1,92431.26,Business
+BMW101054,2025,7,X3,Asia,Silver,Diesel,Manual,Online,48979.0,8,391831.98,Individual
+BMW101055,2019,4,iX,Asia,Silver,Petrol,Automatic,Dealership,105953.38,13,1377393.91,Individual
+BMW101056,2025,9,X1,Middle East,Silver,Diesel,Automatic,Dealership,46816.78,8,374534.22,Individual
+BMW101057,2022,10,i4,Asia,Grey,Electric,Automatic,Dealership,71998.71,9,647988.42,Business
+BMW101058,2024,8,X7,North America,Red,Petrol,Automatic,Dealership,132329.46,12,1587953.53,Business
+BMW101059,2021,1,1 Series,North America,White,Diesel,Automatic,Dealership,31900.78,8,255206.27,Individual
+BMW101060,2021,12,X1,Europe,Black,Diesel,Automatic,Wholesale,46937.28,14,657121.86,Individual
+BMW101061,2024,1,X5,Asia,Black,Petrol,Automatic,Wholesale,79196.81,10,791968.1,Individual
+BMW101062,2023,12,iX,North America,Red,Petrol,Automatic,Dealership,100518.07,11,1105698.79,Business
+BMW101063,2020,1,X1,Europe,Grey,Petrol,Manual,Dealership,37044.62,12,444535.43,Fleet
+BMW101064,2023,7,3 Series,Middle East,White,Petrol,Manual,Dealership,46390.07,10,463900.7,Business
+BMW101065,2024,2,X3,North America,Red,Petrol,Automatic,Wholesale,60796.84,1,60796.84,Individual
+BMW101066,2021,2,3 Series,Europe,White,Hybrid,Manual,Dealership,53659.5,7,375616.5,Individual
+BMW101067,2025,9,X5,North America,Grey,Hybrid,Manual,Dealership,83141.32,3,249423.97,Individual
+BMW101068,2023,9,X1,Middle East,White,Electric,Automatic,Online,40755.83,8,326046.62,Individual
+BMW101069,2021,2,X5,Middle East,Black,Diesel,Automatic,Dealership,75902.48,3,227707.45,Individual
+BMW101070,2019,12,i4,North America,White,Hybrid,Automatic,Dealership,72541.81,8,580334.48,Individual
+BMW101071,2023,4,X3,South America,White,Hybrid,Automatic,Online,55647.0,6,333882.01,Individual
+BMW101072,2020,4,X3,Middle East,Grey,Petrol,Automatic,Dealership,55777.57,1,55777.57,Business
+BMW101073,2024,4,X5,Asia,Black,Petrol,Manual,Dealership,81564.59,2,163129.17,Individual
+BMW101074,2022,6,X7,Middle East,White,Diesel,Automatic,Dealership,115327.83,8,922622.64,Business
+BMW101075,2022,3,i4,North America,Grey,Hybrid,Automatic,Dealership,64839.69,2,129679.38,Fleet
+BMW101076,2020,6,1 Series,Asia,Blue,Diesel,Automatic,Wholesale,36349.22,13,472539.89,Individual
+BMW101077,2023,3,X3,North America,Grey,Petrol,Automatic,Dealership,62040.8,12,744489.55,Individual
+BMW101078,2020,1,3 Series,Asia,Grey,Electric,Automatic,Online,55330.33,11,608633.68,Business
+BMW101079,2021,5,i4,Europe,Red,Petrol,Manual,Dealership,71897.25,3,215691.75,Individual
+BMW101080,2024,9,X3,Asia,Red,Electric,Automatic,Online,57710.89,12,692530.65,Individual
+BMW101081,2025,10,X1,South America,White,Hybrid,Automatic,Wholesale,42531.07,10,425310.72,Individual
+BMW101082,2025,5,3 Series,Europe,Silver,Hybrid,Automatic,Dealership,52395.46,6,314372.74,Business
+BMW101083,2025,4,5 Series,South America,Grey,Hybrid,Automatic,Wholesale,73547.31,1,73547.31,Business
+BMW101084,2022,10,X5,North America,Grey,Petrol,Automatic,Online,81813.78,8,654510.28,Business
+BMW101085,2020,9,3 Series,Europe,Silver,Diesel,Automatic,Online,52319.73,12,627836.72,Business
+BMW101086,2024,10,3 Series,Europe,Black,Hybrid,Automatic,Dealership,53036.1,1,53036.1,Individual
+BMW101087,2024,11,i4,Asia,Blue,Hybrid,Automatic,Online,67140.92,1,67140.92,Business
+BMW101088,2025,10,X5,North America,Silver,Petrol,Manual,Dealership,86099.53,6,516597.15,Business
+BMW101089,2023,12,3 Series,Europe,Red,Petrol,Automatic,Wholesale,45244.49,8,361955.94,Individual
+BMW101090,2019,5,5 Series,Asia,Black,Petrol,Automatic,Wholesale,66918.3,8,535346.43,Fleet
+BMW101091,2022,5,iX,North America,Blue,Diesel,Automatic,Dealership,95083.25,7,665582.76,Business
+BMW101092,2022,4,X5,North America,White,Diesel,Manual,Wholesale,68697.98,4,274791.93,Individual
+BMW101093,2024,3,X3,Middle East,White,Hybrid,Automatic,Wholesale,62523.38,1,62523.38,Individual
+BMW101094,2021,9,5 Series,Asia,Black,Hybrid,Automatic,Dealership,69095.48,1,69095.48,Individual
+BMW101095,2021,9,5 Series,Asia,Grey,Hybrid,Automatic,Dealership,59718.16,2,119436.32,Business
+BMW101096,2019,10,1 Series,North America,Silver,Petrol,Automatic,Dealership,40496.66,11,445463.22,Individual
+BMW101097,2024,3,X5,South America,Grey,Diesel,Automatic,Dealership,85419.13,12,1025029.6,Individual
+BMW101098,2024,6,1 Series,Europe,Blue,Petrol,Automatic,Dealership,39869.64,7,279087.45,Individual
+BMW101099,2019,3,1 Series,Europe,Silver,Petrol,Automatic,Wholesale,35914.06,2,71828.12,Business
+BMW101100,2022,11,X5,Europe,Grey,Petrol,Automatic,Dealership,88628.34,7,620398.37,Business
+BMW101101,2022,4,iX,North America,Red,Petrol,Automatic,Online,90378.74,15,1355681.17,Business
+BMW101102,2022,2,X5,Asia,Blue,Petrol,Automatic,Online,81989.91,4,327959.66,Individual
+BMW101103,2025,7,X1,Asia,White,Diesel,Automatic,Online,36968.09,8,295744.74,Individual
+BMW101104,2020,11,X1,North America,Blue,Petrol,Automatic,Dealership,45085.4,9,405768.61,Business
+BMW101105,2021,11,X1,Europe,Grey,Petrol,Automatic,Dealership,46009.01,5,230045.07,Individual
+BMW101106,2020,2,5 Series,Asia,Blue,Petrol,Automatic,Online,68258.63,7,477810.43,Individual
+BMW101107,2020,4,X1,South America,Silver,Diesel,Automatic,Dealership,43216.64,8,345733.13,Fleet
+BMW101108,2025,2,X1,Europe,Black,Diesel,Automatic,Dealership,47165.2,8,377321.6,Individual
+BMW101109,2025,4,X3,Europe,Grey,Petrol,Automatic,Online,59642.65,11,656069.15,Individual
+BMW101110,2019,7,i4,Europe,Blue,Petrol,Manual,Dealership,59732.18,9,537589.59,Business
+BMW101111,2023,4,iX,North America,White,Electric,Manual,Dealership,105094.98,1,105094.98,Business
+BMW101112,2020,1,1 Series,Europe,Grey,Diesel,Automatic,Dealership,39318.49,1,39318.49,Individual
+BMW101113,2020,7,7 Series,North America,Silver,Hybrid,Automatic,Dealership,123520.08,7,864640.53,Individual
+BMW101114,2021,1,3 Series,Asia,Grey,Diesel,Automatic,Online,56226.16,14,787166.28,Individual
+BMW101115,2020,3,5 Series,North America,Black,Hybrid,Automatic,Dealership,75118.74,1,75118.74,Individual
+BMW101116,2022,1,5 Series,North America,Black,Electric,Automatic,Wholesale,71929.75,2,143859.49,Individual
+BMW101117,2025,2,3 Series,Europe,Blue,Diesel,Manual,Wholesale,51015.78,11,561173.61,Individual
+BMW101118,2023,6,X5,Middle East,Silver,Hybrid,Manual,Dealership,72668.79,7,508681.55,Business
+BMW101119,2024,11,X1,North America,White,Petrol,Automatic,Dealership,43806.23,4,175224.91,Individual
+BMW101120,2022,10,i4,North America,White,Diesel,Automatic,Dealership,68796.0,4,275184.01,Individual
+BMW101121,2019,2,1 Series,Europe,Red,Diesel,Automatic,Wholesale,37305.26,10,373052.57,Individual
+BMW101122,2019,1,1 Series,Asia,Black,Petrol,Automatic,Online,41056.98,8,328455.86,Individual
+BMW101123,2020,5,7 Series,Middle East,Black,Electric,Automatic,Dealership,95854.16,10,958541.61,Individual
+BMW101124,2020,8,3 Series,Europe,Black,Electric,Manual,Dealership,47725.54,5,238627.71,Individual
+BMW101125,2024,9,5 Series,Europe,Red,Petrol,Manual,Dealership,67066.31,8,536530.45,Fleet
+BMW101126,2024,10,iX,Europe,Blue,Electric,Automatic,Dealership,90872.78,13,1181346.18,Fleet
+BMW101127,2024,5,3 Series,Asia,Black,Petrol,Automatic,Dealership,43803.65,5,219018.23,Business
+BMW101128,2023,3,3 Series,Middle East,White,Diesel,Automatic,Dealership,44450.81,6,266704.84,Individual
+BMW101129,2022,1,X3,North America,Red,Electric,Manual,Online,62220.69,3,186662.06,Business
+BMW101130,2023,2,X1,North America,Silver,Petrol,Automatic,Dealership,43063.24,10,430632.42,Business
+BMW101131,2021,1,X3,Asia,White,Diesel,Automatic,Dealership,49203.92,1,49203.92,Individual
+BMW101132,2023,11,7 Series,Asia,White,Hybrid,Automatic,Online,92919.47,4,371677.9,Individual
+BMW101133,2024,4,X7,Europe,Black,Petrol,Automatic,Wholesale,117534.9,11,1292883.92,Business
+BMW101134,2024,10,3 Series,Europe,Silver,Diesel,Automatic,Dealership,44607.05,1,44607.05,Fleet
+BMW101135,2023,7,X1,North America,Black,Petrol,Automatic,Wholesale,45844.59,15,687668.8,Individual
+BMW101136,2019,7,X5,Asia,White,Hybrid,Automatic,Dealership,87250.57,7,610753.98,Individual
+BMW101137,2024,6,i4,Asia,Blue,Petrol,Manual,Wholesale,58806.32,6,352837.91,Individual
+BMW101138,2021,10,7 Series,Asia,Grey,Petrol,Automatic,Dealership,111053.57,9,999482.16,Individual
+BMW101139,2024,1,X3,Asia,Grey,Hybrid,Automatic,Online,50948.34,10,509483.37,Business
+BMW101140,2022,2,1 Series,Europe,Silver,Petrol,Automatic,Dealership,34958.69,7,244710.85,Individual
+BMW101141,2025,6,3 Series,North America,White,Diesel,Automatic,Wholesale,55038.66,14,770541.17,Fleet
+BMW101142,2021,5,1 Series,Europe,Blue,Hybrid,Automatic,Wholesale,37556.26,15,563343.89,Business
+BMW101143,2025,7,X5,Middle East,Blue,Hybrid,Automatic,Dealership,89369.8,4,357479.18,Individual
+BMW101144,2024,9,5 Series,North America,Black,Petrol,Automatic,Dealership,61592.33,11,677515.65,Business
+BMW101145,2021,8,X5,Europe,Silver,Electric,Manual,Dealership,76362.57,5,381812.85,Business
+BMW101146,2022,4,1 Series,Europe,Grey,Hybrid,Automatic,Dealership,36766.28,15,551494.25,Individual
+BMW101147,2022,4,i4,Asia,Blue,Petrol,Automatic,Online,63489.49,4,253957.96,Individual
+BMW101148,2024,10,X7,Asia,Red,Hybrid,Automatic,Online,135618.85,5,678094.27,Business
+BMW101149,2023,3,3 Series,Asia,White,Hybrid,Automatic,Dealership,43888.01,11,482768.14,Individual
+BMW101150,2024,7,1 Series,Europe,Red,Diesel,Automatic,Dealership,40881.22,12,490574.67,Individual
+BMW101151,2021,7,1 Series,Middle East,Silver,Diesel,Manual,Wholesale,41007.77,2,82015.53,Individual
+BMW101152,2022,10,i4,Asia,White,Hybrid,Manual,Dealership,64849.49,9,583645.45,Individual
+BMW101153,2022,9,3 Series,Asia,Silver,Electric,Manual,Online,47194.14,6,283164.81,Business
+BMW101154,2025,6,X3,Asia,Silver,Diesel,Automatic,Dealership,56967.23,10,569672.31,Individual
+BMW101155,2021,4,X1,Middle East,Blue,Hybrid,Automatic,Dealership,40645.09,9,365805.84,Individual
+BMW101156,2023,5,X7,Middle East,Blue,Hybrid,Manual,Dealership,128769.21,15,1931538.1,Individual
+BMW101157,2019,5,X1,Asia,Red,Electric,Automatic,Dealership,43238.32,15,648574.76,Business
+BMW101158,2024,3,X1,North America,Black,Electric,Automatic,Online,48625.61,10,486256.11,Individual
+BMW101159,2021,8,iX,North America,Black,Petrol,Manual,Dealership,96012.67,11,1056139.33,Fleet
+BMW101160,2021,3,3 Series,Asia,Grey,Petrol,Automatic,Online,49646.2,14,695046.78,Fleet
+BMW101161,2023,8,X7,Asia,Red,Diesel,Automatic,Online,125731.89,3,377195.68,Individual
+BMW101162,2022,10,1 Series,Europe,Grey,Diesel,Manual,Dealership,37122.48,11,408347.24,Business
+BMW101163,2024,12,X1,Europe,Black,Diesel,Automatic,Dealership,48356.78,12,580281.36,Individual
+BMW101164,2022,2,i4,Middle East,Grey,Hybrid,Automatic,Online,57990.69,2,115981.39,Business
+BMW101165,2022,10,X3,Middle East,White,Electric,Automatic,Online,64460.25,14,902443.55,Individual
+BMW101166,2019,2,X5,South America,Silver,Diesel,Manual,Dealership,87645.26,11,964097.85,Individual
+BMW101167,2019,5,5 Series,North America,Grey,Hybrid,Automatic,Dealership,73984.3,6,443905.8,Individual
+BMW101168,2021,3,X1,Asia,Blue,Petrol,Automatic,Online,43044.64,8,344357.11,Individual
+BMW101169,2025,2,7 Series,Asia,Grey,Diesel,Automatic,Dealership,118771.85,8,950174.79,Business
+BMW101170,2025,3,X1,Europe,Silver,Petrol,Automatic,Online,40825.35,14,571554.95,Business
+BMW101171,2023,1,X1,Europe,Silver,Diesel,Automatic,Dealership,46560.55,15,698408.21,Individual
+BMW101172,2023,10,5 Series,South America,Blue,Diesel,Automatic,Online,59938.78,13,779204.12,Individual
+BMW101173,2021,1,5 Series,Europe,Grey,Hybrid,Automatic,Dealership,63187.51,10,631875.12,Individual
+BMW101174,2020,5,5 Series,Asia,Black,Diesel,Automatic,Online,65891.79,2,131783.57,Individual
+BMW101175,2019,9,7 Series,Asia,Blue,Petrol,Automatic,Dealership,102553.07,14,1435743.0,Individual
+BMW101176,2021,12,3 Series,Asia,Blue,Petrol,Automatic,Dealership,47813.05,3,143439.14,Individual
+BMW101177,2021,11,i4,Europe,Grey,Petrol,Automatic,Dealership,69813.95,3,209441.84,Business
+BMW101178,2020,2,X3,Asia,Red,Electric,Manual,Online,52635.15,2,105270.3,Individual
+BMW101179,2020,12,3 Series,Europe,Red,Electric,Automatic,Dealership,52972.05,15,794580.73,Business
+BMW101180,2019,8,X5,Asia,Blue,Petrol,Automatic,Dealership,70364.86,8,562918.9,Individual
+BMW101181,2023,3,X7,Europe,Grey,Petrol,Automatic,Online,127618.0,4,510472.0,Individual
+BMW101182,2025,6,3 Series,Asia,Black,Diesel,Automatic,Dealership,53645.13,2,107290.27,Individual
+BMW101183,2023,12,3 Series,Asia,Blue,Hybrid,Automatic,Dealership,48024.46,7,336171.24,Individual
+BMW101184,2022,5,1 Series,Europe,Silver,Petrol,Automatic,Online,39482.76,11,434310.37,Individual
+BMW101185,2021,3,1 Series,Europe,Silver,Petrol,Automatic,Online,41563.49,15,623452.42,Fleet
+BMW101186,2021,11,X5,Asia,Red,Diesel,Automatic,Wholesale,87376.68,9,786390.15,Business
+BMW101187,2019,12,iX,Europe,Blue,Petrol,Manual,Dealership,89742.06,10,897420.56,Business
+BMW101188,2023,12,1 Series,Europe,Red,Petrol,Automatic,Dealership,36909.51,13,479823.58,Individual
+BMW101189,2022,12,X5,North America,Red,Petrol,Automatic,Online,86876.97,14,1216277.53,Individual
+BMW101190,2019,11,1 Series,Middle East,Grey,Diesel,Automatic,Dealership,34840.02,5,174200.11,Individual
+BMW101191,2021,6,X3,North America,Black,Diesel,Automatic,Online,61664.07,15,924960.98,Fleet
+BMW101192,2020,3,X5,North America,Blue,Petrol,Automatic,Dealership,76316.86,8,610534.92,Business
+BMW101193,2020,8,5 Series,South America,Silver,Diesel,Automatic,Wholesale,72916.82,14,1020835.43,Individual
+BMW101194,2023,3,1 Series,North America,Grey,Diesel,Automatic,Online,32617.44,2,65234.89,Fleet
+BMW101195,2022,6,X3,North America,Red,Hybrid,Automatic,Dealership,49132.56,2,98265.11,Individual
+BMW101196,2023,8,iX,North America,Silver,Electric,Automatic,Dealership,106137.24,14,1485921.32,Individual
+BMW101197,2023,12,5 Series,Europe,Black,Petrol,Automatic,Dealership,74154.41,11,815698.55,Individual
+BMW101198,2025,4,3 Series,North America,Red,Electric,Automatic,Dealership,54953.0,3,164859.01,Individual
+BMW101199,2024,4,3 Series,Asia,Blue,Hybrid,Manual,Online,55938.43,14,783138.04,Fleet
+BMW101200,2023,9,X3,Europe,Silver,Hybrid,Manual,Dealership,55632.22,2,111264.44,Business
